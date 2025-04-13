@@ -2,12 +2,11 @@ name: build
 permissions:
   contents: write
 
-# execute this workflow automatically, but only when pushing to master
 on:
   push:
-#    branches: [ master ]
-#  pull_request:
-#    branches: [ master ]
+    branches:
+    - main
+    - test
   schedule:
     - cron: 20 * * * * # every hour, 20 minutes past the hour
 
@@ -16,35 +15,77 @@ jobs:
   linux:
     runs-on: ubuntu-latest
 
+    env:
+      CI_RUST_VERSION: "1.86"
+      CI_PYTHON_VERSION: "3.13"
+      CARGO_HOME: .cargo_home
+
     steps:
 
-    - uses: actions/checkout@v3
+    - name: Checkout this repo
+      uses: actions/checkout@v4
+      with:
+        show-progress: "false"
 
-    - name: Update README.md file
-      shell: bash
+    - name: Checkout lemmy-stats-crawler
+      uses: actions/checkout@v4
+      with:
+        show-progress: "false"
+        repository: LemmyNet/lemmy-stats-crawler
+        path: lemmy-stats-crawler
+
+    - name: Cargo home cache
+      uses: actions/cache@v4
+      with:
+        path: lemmy-stats-crawler/${{ env.CARGO_HOME }}
+        key: rust-cargo-home-${{ env.CI_RUST_VERSION }}-${{ hashFiles('**/Cargo.toml', '**/Cargo.lock') }}
+        restore-keys: |
+          rust-cargo-home-${{ env.CI_RUST_VERSION }}-
+          rust-cargo-home-
+
+    - name: Disable rustup self update
+      run: rustup set auto-self-update disable
+
+    - name: Set Rust version to ${{ env.CI_RUST_VERSION }}
+      run: rustup default "$CI_RUST_VERSION"
+
+    - name: Set up Python ${{ env.CI_PYTHON_VERSION }}
+      uses: actions/setup-python@v5
+      with:
+        python-version: "${{ env.CI_PYTHON_VERSION }}"
+        cache: "pip"
+        cache-dependency-path: requirements.txt
+
+    - name: Install Python dependencies
+      run: pip install -r requirements.txt
+
+    - name: Retrieve lemmy instance uptime data from fediverse.observer
+      run: >-
+        curl "https://api.fediverse.observer/"
+        -X POST
+        -H "Accept: */*"
+        -H "Content-Type: application/json"
+        --data-raw '{"query":"query{\n  nodes (softwarename: \"lemmy\") {\ndomain uptime_alltime\n  }\n}\n"}'
+        -o uptime.json
+
+    - name: Run lemmy-stats-crawler
+      working-directory: lemmy-stats-crawler
+      run: >-
+        time cargo run --
+        --verbose 4
+        --start-instances baraza.africa,lemmygrad.ml,lemmy.blahaj.zone,lemmy.pussthecat.org,lemmy.studio,toast.ooo,monero.town,reddthat.com,mander.xyz,szmer.info,beehaw.org
+        --json
+        > ../lemmy-stats-crawler.json
+
+    - name: Update README.md and csv export
       run: |
+        python generate_readme.py
 
-        # install depends
-        sudo apt-get update
-        sudo apt-get install python3-pandas python3-tabulate pkg-config libssl-dev
-
-        # generate the lemmy-stats-crawler.json file
-        ./stats-crawler.sh
-
-        # get uptimes of lemmy instances
-        ./get-uptime.sh
-
-        # get age of lemmy instances
-        ./get-age.sh
-
-        # process the json file and update the README.md file
-        ./generate_readme.py
-
-        # push new README to GitHub
-        git config --global user.name 'maltfield'
-        git config --global user.email 'michael@michaelaltfield.net'
+    - name: Push updates back to Git
+      run: |
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config user.name "github-actions[bot]"
         git add -f awesome-lemmy-instances.csv
         git add -f README.md
-        git commit -am "Auto-update"
+        git commit -m "Auto-update"
         git push
-
