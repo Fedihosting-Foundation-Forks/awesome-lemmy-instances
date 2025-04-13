@@ -19,11 +19,9 @@ import pandas as pd
 #                                  SETTINGS                                    #
 ################################################################################
 
-LEMMY_STATS_CRAWLER_FILENAME = 'lemmy-stats-crawler.json'
-LEMMY_STATS_CRAWLER_FILEPATH = 'lemmy-stats-crawler/' + LEMMY_STATS_CRAWLER_FILENAME
+LEMMY_STATS_CRAWLER_FILEPATH = 'lemmy-stats-crawler.json'
 
 UPTIME_FILENAME = 'uptime.json'
-AGE_FILENAME = 'age.json'
 
 OUT_CSV = 'awesome-lemmy-instances.csv'
 
@@ -78,28 +76,45 @@ However, each server has their own local policies and configurations (for exampl
 
 csv_contents = "Instance,NU,NC,Fed,Adult,↓V,Users,BI,BB,UT,MO,Version\n"
 
+average_days_per_month = 30.437
+
 ################
 # PROCESS JSON #
 ################
 
+import math
 import os
 print( os.path.dirname(os.path.realpath(__file__)) )
 print( os.getcwd() )
 print( os.listdir() )
-print( os.listdir('lemmy-stats-crawler') )
+
+
+now = datetime.datetime.now(datetime.UTC)
+
+
+def get_instance_age_months(i):
+	published = instance['site_info']['site_view']['site']['published']
+	print(published)
+	parsed_date = datetime.datetime.fromisoformat(published)
+	delta = now - parsed_date
+	return math.floor(delta.days / average_days_per_month)
+
 
 with open( LEMMY_STATS_CRAWLER_FILEPATH ) as json_data:
 	data = json.load(json_data)
 
+
 #print( "data:|" +str(data)+ "|" )
 
-instances_with_blocked = [x for x in data['instance_details'] if x['federated_instances']['federated_instances']['blocked'] != [] ]
+instances_with_blocked = [
+	x for x
+	in data['instance_details']
+	if x['site_info']['site_view']['local_site']['federation_enabled']
+	and x['federated_instances']['federated_instances']['blocked'] != []
+]
 
 with open( UPTIME_FILENAME ) as json_data:
 	uptime_data = json.load(json_data)
-
-with open( AGE_FILENAME ) as json_data:
-	age_data = json.load(json_data)
 
 for instance in data['instance_details']:
 
@@ -140,14 +155,15 @@ for instance in data['instance_details']:
 	# count the number of instances that block this instance
 	blocked_by = 0
 	for i in instances_with_blocked:
+		if not i['site_info']['site_view']['local_site']['federation_enabled']:
+			continue
+
 		for item in i['federated_instances']['federated_instances']['blocked']:
 			if item['domain'] == domain:
 				blocked_by += 1
 
 	# count the number of instances that this instance blocks
-	if instance['federated_instances'] == None:
-		blocking = 0
-	elif instance['federated_instances']['federated_instances']['blocked'] == None:
+	if not federation_enabled or instance['federated_instances'] is None or instance['federated_instances']['federated_instances']['blocked'] is None:
 		blocking = 0
 	else:
 		blocking = len(instance['federated_instances']['federated_instances']['blocked'])
@@ -188,9 +204,7 @@ for instance in data['instance_details']:
 	# the 'domain' matches this iteration lemmy instance's domain
 	uptime = [x['uptime_alltime'] for x in uptime_data['data']['nodes'] if x['domain'] == domain]
 
-	# stupid way to say gimmie the 'monthsmonitored' data from the json where
-	# the 'domain' matches this iteration lemmy instance's domain
-	age = [x['monthsmonitored'] for x in age_data['data']['nodes'] if x['domain'] == domain]
+	age = get_instance_age_months(instance)
 
 	# did we figure out an uptime for this domain?
 	if uptime == []:
@@ -203,17 +217,6 @@ for instance in data['instance_details']:
 		# let's keep the data simple
 		uptime = round(float(uptime))
 		uptime = str(uptime)+ "%"
-
-	# did we figure out an age for this domain?
-	if age == []:
-		# we couldn't find an uptime; set it to '??'
-		age = '??'
-	else:
-		# we got an uptime! Format it for the table
-
-		age = age[0]
-		# let's keep the data simple
-		age = round(float(age))
 
 	csv_contents += "[" +name+ "](https://" +domain+ "),"
 	csv_contents += new_users+ ","
@@ -282,7 +285,7 @@ print( "bb_avg:|" +str(bb_avg)+ "|" )
 recommended_instances = [ x for x in recommended_instances if int(x['BI']) <= bi_avg and int(x['BB']) <= bb_avg ]
 
 # remove instances that haven't been online for 2 months
-recommended_instances = [ x for x in recommended_instances if int(x['MO']) >= 2 ]
+recommended_instances = [ x for x in recommended_instances if x['MO'] != "??" and int(x['MO']) >= 2 ]
 
 # limit to those with the best uptime; first we make sure that we actually
 # have the uptime data
@@ -371,9 +374,9 @@ readme_contents +=  """
 
 After you pick an instance and register an account, you'll want to subscribe to communities. You can subscribe to "local" communities on your instance, and (if you chose an instance that isn't siloed) you can also subscribe to "remote" communities on other instances.
 
-To **find popular communities** across all lemmy instances in the fediverse, you can use the [Lemmy Community Browser](https://browse.feddit.de/) run by feddit.de.
+To **find popular communities** across all lemmy instances in the fediverse, you can use the [Lemmy Explorer](https://lemmyverse.net/communities).
 
- * https://browse.feddit.de/
+ * https://lemmyverse.net/communities
 
 If you want a more direct mapping of your favorite /r/subreddits to lemmy, checkout these sites:
 
@@ -392,8 +395,7 @@ You may want to also checkout the following websites for more information about 
 
  * [Official Lemmy Documentation](https://join-lemmy.org/docs/en/index.html)
  * [Intro to Lemmy Guide](https://tech.michaelaltfield.net/2023/06/11/lemmy-migration-find-subreddits-communities/) - How to create a lemmy account, find, and subscribe-to popular communities
- * [Lemmy Community Browser](https://browse.feddit.de/) - List of all communities across all lemmy instances, sorted by popularity
- * [Lemmy Map](https://lemmymap.feddit.de) - Data visualization of lemmy instances
+ * [Lemmy Explorer](https://lemmyverse.net/communities) - List of all communities across all lemmy instances, sorted by popularity
  * [The Federation Info](https://the-federation.info/platform/73) - Another table comparing lemmy instances (with pretty charts)
  * [Federation Observer](https://lemmy.fediverse.observer/list) - Yet another table comparing lemmy instances
  * [FediDB](https://fedidb.org/software/lemmy) - Yet another site comparing lemmy instances (with pretty charts)
@@ -417,7 +419,7 @@ markdown_table = "\n" + markdown_table + "\n"
 readme_contents +=  """
 # All Lemmy Instances
 
-Download table as <a href="https://raw.githubusercontent.com/maltfield/awesome-lemmy-instances/main/awesome-lemmy-instances.csv" target="_blank" download>awesome-lemmy-instances.csv</a> file
+Download table as <a href="https://raw.githubusercontent.com/Fedihosting-Foundation-Forks/awesome-lemmy-instances/main/awesome-lemmy-instances.csv" target="_blank" download>awesome-lemmy-instances.csv</a> file
 
 > ⓘ Note To view a wider version of the table, [click here](README.md).
 """
@@ -425,7 +427,7 @@ Download table as <a href="https://raw.githubusercontent.com/maltfield/awesome-l
 # add the markdown table to the readme's contents
 readme_contents += markdown_table
 
-timestamp = str(datetime.datetime.utcnow().isoformat())+ "+00:00"
+timestamp = str(now.isoformat())+ "+00:00"
 readme_contents += "\n"
 readme_contents += "Data generated at " +str(timestamp)
 readme_contents += "\n"
