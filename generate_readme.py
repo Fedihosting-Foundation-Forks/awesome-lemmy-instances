@@ -110,7 +110,7 @@ instances_with_blocked = [
 	x for x
 	in data['instance_details']
 	if x['site_info']['site_view']['local_site']['federation_enabled']
-	and x['federated_instances']['federated_instances']['blocked'] != []
+	and x['federated_instances'].get('federated_instances', {}).get('blocked') is not None
 ]
 
 with open( UPTIME_FILENAME ) as json_data:
@@ -122,6 +122,10 @@ for instance in data['instance_details']:
 	name = sanitize_text( instance['site_info']['site_view']['site']['name'] )
 	version = sanitize_text( instance['site_info']['version'] )
 	federation_enabled = instance['site_info']['site_view']['local_site']['federation_enabled']
+
+	if federation_enabled and "federated_instances" not in instance['federated_instances']:
+		print(f"WARN: {domain} is missing federated_instances")
+		federation_enabled = False
 
 	print( domain )
 	print( "\tversion:|" +str(version)+ "|" )
@@ -158,7 +162,7 @@ for instance in data['instance_details']:
 		if not i['site_info']['site_view']['local_site']['federation_enabled']:
 			continue
 
-		for item in i['federated_instances']['federated_instances']['blocked']:
+		for item in i['federated_instances'].get('federated_instances', {}).get('blocked', []):
 			if item['domain'] == domain:
 				blocked_by += 1
 
