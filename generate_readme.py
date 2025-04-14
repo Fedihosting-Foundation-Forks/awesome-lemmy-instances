@@ -222,7 +222,10 @@ for instance in data['instance_details']:
 		uptime = round(float(uptime))
 		uptime = str(uptime)+ "%"
 
-	csv_contents += "[" +name+ "](https://" +domain+ "),"
+	if name.strip().lower() == domain.lower():
+		csv_contents += "[" +name+ "](https://" +domain+ "),"
+	else:
+		csv_contents += "[" +name+ "](https://" +domain+ ") (" + domain + "),"
 	csv_contents += new_users+ ","
 	csv_contents += new_comm+ ","
 	csv_contents += fed+ ","
