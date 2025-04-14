@@ -397,6 +397,7 @@ For more information, see my guide on [How to Find Popular Lemmy Communities](ht
 
 You may want to also checkout the following websites for more information about Lemmy
 
+ * [awesome-lemmy](https://github.com/dbeley/awesome-lemmy) - Another collection of all kinds of useful resources for Lemmy
  * [Official Lemmy Documentation](https://join-lemmy.org/docs/en/index.html)
  * [Intro to Lemmy Guide](https://tech.michaelaltfield.net/2023/06/11/lemmy-migration-find-subreddits-communities/) - How to create a lemmy account, find, and subscribe-to popular communities
  * [Lemmy Explorer](https://lemmyverse.net/communities) - List of all communities across all lemmy instances, sorted by popularity
