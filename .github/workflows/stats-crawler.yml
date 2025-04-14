@@ -43,11 +43,25 @@ jobs:
           rust-cargo-home-${{ env.CI_RUST_VERSION }}-
           rust-cargo-home-
 
+    - name: Rust target cache
+      uses: actions/cache@v4
+      with:
+        path: lemmy-stats-crawler/target
+        key: rust-cargo-target-${{ env.CI_RUST_VERSION }}-${{ hashFiles('**/Cargo.toml', '**/Cargo.lock') }}
+        restore-keys: |
+          rust-cargo-target-${{ env.CI_RUST_VERSION }}-
+
     - name: Disable rustup self update
       run: rustup set auto-self-update disable
 
     - name: Set Rust version to ${{ env.CI_RUST_VERSION }}
       run: rustup default "$CI_RUST_VERSION"
+
+    - name: Install cargo-sweep
+      run: cargo install --locked cargo-sweep
+
+    - name: Set up cargo sweep stamp
+      run: cargo sweep --stamp lemmy-stats-crawler
 
     - name: Set up Python ${{ env.CI_PYTHON_VERSION }}
       uses: actions/setup-python@v5
@@ -76,6 +90,9 @@ jobs:
         --start-instances baraza.africa,lemmygrad.ml,lemmy.blahaj.zone,lemmy.pussthecat.org,lemmy.studio,toast.ooo,monero.town,reddthat.com,mander.xyz,szmer.info,beehaw.org
         --json
         > ../lemmy-stats-crawler.json
+
+    - name: Run cargo sweep to clean up unused build cache files
+      run: cargo sweep --file lemmy-stats-crawler
 
     - name: Update README.md and csv export
       run: |
