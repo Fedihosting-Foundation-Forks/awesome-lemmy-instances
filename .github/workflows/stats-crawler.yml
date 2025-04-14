@@ -87,6 +87,7 @@ jobs:
       run: >-
         time cargo run --
         --verbose 4
+        --jobs-count 300
         --start-instances baraza.africa,lemmygrad.ml,lemmy.blahaj.zone,lemmy.pussthecat.org,lemmy.studio,toast.ooo,monero.town,reddthat.com,mander.xyz,szmer.info,beehaw.org
         --json
         > ../lemmy-stats-crawler.json
