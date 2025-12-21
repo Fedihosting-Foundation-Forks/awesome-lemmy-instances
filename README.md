@@ -86,27 +86,27 @@ Download table as <a href="https://raw.githubusercontent.com/Fedihosting-Foundat
 
 | Instance                                                                                       | NU   | NC   | Fed   | Adult   | ↓V   |   Users |   BI |   BB | UT   |   MO | Version               |
 |:-----------------------------------------------------------------------------------------------|:-----|:-----|:------|:--------|:-----|--------:|-----:|-----:|:-----|-----:|:----------------------|
-| [Lemmy.World](https://lemmy.world)                                                             | Yes  | Yes  | Yes   | Yes     | Yes  |   14093 |  196 |    4 | 100% |   30 | 0.19.12-4-gd8445881a  |
-| [Lemmy NSFW](https://lemmynsfw.com) (lemmynsfw.com)                                            | Yes  | Yes  | Yes   | Yes     | No   |    3076 |  177 |   34 | ??   |   30 | 0.19.14               |
+| [Lemmy.World](https://lemmy.world)                                                             | Yes  | Yes  | Yes   | Yes     | Yes  |   14084 |  196 |    4 | 100% |   30 | 0.19.12-4-gd8445881a  |
+| [Lemmy NSFW](https://lemmynsfw.com) (lemmynsfw.com)                                            | Yes  | Yes  | Yes   | Yes     | No   |    3076 |  177 |   33 | ??   |   30 | 0.19.14               |
 | [sh.itjust.works](https://sh.itjust.works)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |    2408 |   96 |    3 | 100% |   30 | 0.19.13               |
 | [Lemmy](https://lemmy.ml) (lemmy.ml)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |    1982 |  203 |    9 | 99%  |   80 | 0.19.15-beta.0        |
 | [Lemmy.zip](https://lemmy.zip)                                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |    1771 |    7 |    0 | 100% |   30 | 0.19.14               |
-| [Hexbear](https://hexbear.net) (hexbear.net)                                                   | Yes  | No   | No    | Yes     | No   |    1504 |   10 |   54 | ??   |   64 | 0.19.14               |
-| [feddit.org](https://feddit.org)                                                               | Yes  | Yes  | Yes   | Yes     | Yes  |    1499 |   36 |    3 | 100% |   18 | 0.19.12               |
-| [Divisions by zero](https://lemmy.dbzer0.com) (lemmy.dbzer0.com)                               | Yes  | Yes  | Yes   | Yes     | Yes  |    1370 |  176 |    0 | 100% |   30 | 0.19.13               |
+| [Hexbear](https://hexbear.net) (hexbear.net)                                                   | Yes  | No   | No    | Yes     | No   |    1504 |   10 |   53 | ??   |   64 | 0.19.14               |
+| [feddit.org](https://feddit.org)                                                               | Yes  | Yes  | Yes   | Yes     | Yes  |    1501 |   36 |    3 | 100% |   18 | 0.19.12               |
+| [Divisions by zero](https://lemmy.dbzer0.com) (lemmy.dbzer0.com)                               | Yes  | Yes  | Yes   | Yes     | Yes  |    1370 |  176 |    0 | ??   |   30 | 0.19.13               |
 | [Lemmy.ca](https://lemmy.ca)                                                                   | Yes  | Yes  | Yes   | Yes     | Yes  |    1342 |   86 |    0 | 100% |   60 | 0.19.13               |
-| [Lemmygrad](https://lemmygrad.ml) (lemmygrad.ml)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |     972 |  139 |   63 | 99%  |   76 | 0.19.13               |
+| [Lemmygrad](https://lemmygrad.ml) (lemmygrad.ml)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |     972 |  139 |   67 | 99%  |   76 | 0.19.13               |
 | [Blåhaj Lemmy](https://lemmy.blahaj.zone) (lemmy.blahaj.zone)                                  | Yes  | Yes  | Yes   | Yes     | No   |     928 |  298 |    1 | 99%  |   35 | 0.19.13-modified      |
 | [programming.dev](https://programming.dev)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |     910 |  324 |    0 | 99%  |   30 | 0.19.13               |
 | [tchncs](https://discuss.tchncs.de) (discuss.tchncs.de)                                        | Yes  | Yes  | Yes   | Yes     | Yes  |     790 |   80 |    1 | 100% |   30 | 0.19.14               |
-| [Sopuli](https://sopuli.xyz) (sopuli.xyz)                                                      | Yes  | Yes  | Yes   | Yes     | Yes  |     586 |   50 |    1 | 97%  |   58 | 0.19.12               |
+| [Sopuli](https://sopuli.xyz) (sopuli.xyz)                                                      | Yes  | Yes  | Yes   | Yes     | Yes  |     584 |   50 |    1 | 97%  |   58 | 0.19.12               |
 | [Feddit UK](https://feddit.uk) (feddit.uk)                                                     | Yes  | Yes  | Yes   | No      | Yes  |     372 |   68 |    0 | 100% |   30 | 0.19.14-feddit        |
 | [SLRPNK](https://slrpnk.net) (slrpnk.net)                                                      | Yes  | Yes  | Yes   | No      | Yes  |     351 |   11 |    1 | 99%  |   44 | 0.19.14               |
-| [SDF Chatter](https://lemmy.sdf.org) (lemmy.sdf.org)                                           | Yes  | Yes  | Yes   | Yes     | Yes  |     326 |    1 |    0 | 98%  |   30 | 0.19.11               |
-| [Infosec.Pub](https://infosec.pub)                                                             | Yes  | Yes  | Yes   | Yes     | Yes  |     319 |   16 |    0 | 100% |   31 | 0.19.13               |
+| [SDF Chatter](https://lemmy.sdf.org) (lemmy.sdf.org)                                           | Yes  | Yes  | Yes   | Yes     | Yes  |     331 |    1 |    0 | ??   |   30 | 0.19.11               |
 | [Aussie Zone](https://aussie.zone) (aussie.zone)                                               | Yes  | No   | Yes   | No      | Yes  |     319 |   12 |    0 | ??   |   30 | 0.19.13               |
-| [Beehaw](https://beehaw.org) (beehaw.org)                                                      | Yes  | No   | Yes   | Yes     | No   |     318 |  559 |    1 | 99%  |   46 | 0.19.13               |
-| [Lemmy Today](https://lemmy.today) (lemmy.today)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |     306 |    0 |    0 | 99%  |   30 | 0.19.13               |
+| [Infosec.Pub](https://infosec.pub)                                                             | Yes  | Yes  | Yes   | Yes     | Yes  |     319 |   16 |    0 | 100% |   31 | 0.19.13               |
+| [Beehaw](https://beehaw.org) (beehaw.org)                                                      | Yes  | No   | Yes   | Yes     | No   |     317 |  559 |    1 | 99%  |   46 | 0.19.13               |
+| [Lemmy Today](https://lemmy.today) (lemmy.today)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |     306 |    0 |    0 | ??   |   30 | 0.19.13               |
 | [Reddthat](https://reddthat.com) (reddthat.com)                                                | Yes  | Yes  | Yes   | Yes     | No   |     287 |    4 |    0 | 100% |   30 | 0.19.13               |
 | [GunCAD Forums](https://forum.guncadindex.com) (forum.guncadindex.com)                         | Yes  | Yes  | Yes   | No      | Yes  |     278 |    3 |    3 | 100% |    2 | 0.19.13               |
 | [feddit.nl](https://feddit.nl)                                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |     276 |    5 |    0 | 100% |   30 | 0.19.13               |
@@ -114,8 +114,7 @@ Download table as <a href="https://raw.githubusercontent.com/Fedihosting-Foundat
 | [Pawb.Social](https://pawb.social)                                                             | Yes  | Yes  | Yes   | Yes     | Yes  |     254 |   89 |    1 | 99%  |   30 | 0.19.11               |
 | [Mander](https://mander.xyz) (mander.xyz)                                                      | Yes  | Yes  | Yes   | Yes     | Yes  |     201 |    1 |    0 | 93%  |   48 | 0.19.14               |
 | [ani.social](https://ani.social)                                                               | Yes  | Yes  | Yes   | Yes     | Yes  |     165 |    1 |    5 | 100% |   30 | 0.19.14               |
-| [Lemmings.world](https://lemmings.world)                                                       | Yes  | Yes  | Yes   | Yes     | Yes  |     164 |  106 |    0 | 99%  |   29 | 0.19.11               |
-| [Star Trek Website](https://startrek.website) (startrek.website)                               | Yes  | No   | Yes   | Yes     | Yes  |     150 |   31 |    0 | 99%  |   30 | 0.19.13               |
+| [Star Trek Website](https://startrek.website) (startrek.website)                               | Yes  | No   | Yes   | Yes     | Yes  |     150 |   31 |    0 | ??   |   30 | 0.19.13               |
 | [Feddit.dk](https://feddit.dk)                                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |     145 |  611 |    0 | 100% |   31 | 0.19.12               |
 | [Feddit.it](https://feddit.it)                                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |     145 |    0 |    0 | 100% |   43 | 0.19.14               |
 | [Lemmy.org](https://lemmy.org)                                                                 | Yes  | Yes  | Yes   | No      | Yes  |     133 |    0 |    2 | ??   |   11 | 0.19.11               |
@@ -123,495 +122,499 @@ Download table as <a href="https://raw.githubusercontent.com/Fedihosting-Foundat
 | [Lemmy.wtf](https://lemmy.wtf)                                                                 | Yes  | No   | Yes   | Yes     | Yes  |     120 |   82 |    0 | ??   |   30 | 0.19.13               |
 | [Brasil](https://lemmy.eco.br) (lemmy.eco.br)                                                  | Yes  | Yes  | Yes   | Yes     | Yes  |     105 |   57 |    0 | 99%  |   30 | 0.19.14               |
 | [awful.systems](https://awful.systems)                                                         | Yes  | No   | Yes   | Yes     | Yes  |      97 |   30 |    0 | 100% |   29 | 0.19.12               |
-| [Discuss Online](https://discuss.online) (discuss.online)                                      | Yes  | Yes  | Yes   | Yes     | Yes  |      88 |  192 |    0 | 100% |   30 | 0.19.14               |
+| [Discuss Online](https://discuss.online) (discuss.online)                                      | Yes  | Yes  | Yes   | Yes     | Yes  |      88 |  192 |    0 | ??   |   30 | 0.19.14               |
 | [lemy.lol](https://lemy.lol)                                                                   | Yes  | Yes  | Yes   | Yes     | Yes  |      86 |    4 |    0 | 100% |   29 | 0.19.13               |
 | [Lemmy NZ](https://lemmy.nz) (lemmy.nz)                                                        | Yes  | No   | Yes   | Yes     | Yes  |      80 |    8 |    0 | 100% |   30 | 0.19.13               |
 | [Lemmy Cafe](https://lemmy.cafe) (lemmy.cafe)                                                  | Yes  | Yes  | Yes   | No      | Yes  |      70 |    8 |    0 | 99%  |   30 | 0.19.13               |
-| [Feddit.nu](https://feddit.nu)                                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |      67 |   81 |    0 | 100% |   30 | 0.19.14               |
 | [FOSSCAD](https://fosscad.io) (fosscad.io)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |      67 |  194 |    4 | 99%  |    2 | 0.19.13               |
+| [Feddit.nu](https://feddit.nu)                                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |      67 |   81 |    0 | 100% |   30 | 0.19.14               |
 | [UnserDorf](https://lemmy.dorfrollenspiel.de) (lemmy.dorfrollenspiel.de)                       | Yes  | No   | Yes   | Yes     | No   |      59 |    0 |    0 | 100% |    2 | 0.19.13               |
 | [Lemdro.id](https://lemdro.id)                                                                 | Yes  | No   | Yes   | Yes     | Yes  |      58 |    0 |    0 | ??   |   29 | 0.19.12               |
 | [The Lemmy Club](https://thelemmy.club) (thelemmy.club)                                        | Yes  | Yes  | Yes   | Yes     | Yes  |      58 |    5 |    1 | 100% |   30 | 0.19.14               |
 | [RetroLemmy](https://retrolemmy.com) (retrolemmy.com)                                          | Yes  | Yes  | Yes   | Yes     | Yes  |      51 |    4 |    0 | 99%  |   29 | 0.19.13               |
 | [Europe Pub](https://europe.pub) (europe.pub)                                                  | Yes  | Yes  | Yes   | No      | Yes  |      50 |    5 |    3 | 100% |    9 | 0.19.12               |
 | [literature.cafe](https://literature.cafe)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |      49 |  541 |    0 | 98%  |   28 | 0.19.13               |
-| [Feddit.cl](https://feddit.cl)                                                                 | Yes  | Yes  | Yes   | No      | Yes  |      45 |    1 |    0 | 99%  |   30 | 0.19.11               |
+| [Feddit.cl](https://feddit.cl)                                                                 | Yes  | Yes  | Yes   | No      | Yes  |      45 |    1 |    0 | ??   |   30 | 0.19.11               |
 | [lemmus.org](https://lemmus.org)                                                               | Yes  | No   | Yes   | Yes     | Yes  |      41 |   14 |    0 | 100% |   30 | 0.19.11               |
 | [Lemmy Myserv one](https://lemmy.myserv.one) (lemmy.myserv.one)                                | Yes  | No   | Yes   | Yes     | Yes  |      38 |  228 |    1 | ??   |   29 | 0.19.14               |
 | [D•Scribe](https://scribe.disroot.org) (scribe.disroot.org)                                    | Yes  | Yes  | Yes   | Yes     | Yes  |      34 |    0 |    0 | 99%  |   23 | 0.19.13               |
 | [eviltoast](https://eviltoast.org) (eviltoast.org)                                             | Yes  | Yes  | Yes   | Yes     | Yes  |      30 |    3 |    2 | 98%  |   30 | 0.19.13               |
 | [Lemmy Português](https://lemmy.pt) (lemmy.pt)                                                 | Yes  | No   | Yes   | No      | Yes  |      26 |    1 |    0 | 95%  |   51 | 0.19.13               |
-| [Lemmy.one](https://lemmy.one)                                                                 | Yes  | No   | Yes   | Yes     | No   |      26 |    4 |   23 | 99%  |   30 | 0.19.7                |
+| [Lemmy.one](https://lemmy.one)                                                                 | Yes  | No   | Yes   | Yes     | No   |      26 |    4 |   22 | 99%  |   30 | 0.19.7                |
 | [monero.town](https://monero.town)                                                             | Yes  | Yes  | Yes   | Yes     | Yes  |      26 |    1 |    6 | ??   |   30 | 0.19.13               |
 | [Neo Mujico](https://mujico.org) (mujico.org)                                                  | Yes  | No   | No    | Yes     | Yes  |      23 |    0 |   15 | 99%  |   23 | 0.19.8                |
 | [Lemmy.Radio](https://lemmy.radio)                                                             | Yes  | Yes  | Yes   | Yes     | Yes  |      20 |    4 |    0 | 100% |   30 | 0.19.13               |
 | [diggita lemmy social](https://diggita.com) (diggita.com)                                      | Yes  | No   | Yes   | No      | No   |      18 |    9 |    2 | 100% |   12 | 0.19.11               |
 | [crazypeople.online](https://crazypeople.online)                                               | Yes  | Yes  | Yes   | Yes     | No   |      18 |   13 |    0 | 99%  |   10 | 0.19.14               |
-| [Hilarious Chaos](https://hilariouschaos.com) (hilariouschaos.com)                             | Yes  | Yes  | Yes   | Yes     | Yes  |      17 |    9 |   30 | 100% |   24 | 0.19.13               |
 | [lazysoci.al](https://lazysoci.al)                                                             | Yes  | Yes  | Yes   | Yes     | Yes  |      17 |    0 |    0 | ??   |   30 | 0.19.14               |
-| [Futurology Today](https://futurology.today) (futurology.today)                                | Yes  | No   | Yes   | No      | Yes  |      16 |    1 |    0 | 99%  |   28 | 0.19.14               |
-| [Suppo.fi](https://suppo.fi)                                                                   | Yes  | Yes  | Yes   | Yes     | Yes  |      16 |    7 |    0 | 99%  |   30 | 0.19.12               |
-| [Frozen Lemmy](https://lemmy.frozeninferno.xyz) (lemmy.frozeninferno.xyz)                      | Yes  | Yes  | Yes   | Yes     | Yes  |      15 |   90 |    0 | 99%  |   30 | 0.19.14               |
+| [Hilarious Chaos](https://hilariouschaos.com) (hilariouschaos.com)                             | Yes  | Yes  | Yes   | Yes     | Yes  |      17 |    9 |   30 | 100% |   24 | 0.19.13               |
+| [Suppo.fi](https://suppo.fi)                                                                   | Yes  | Yes  | Yes   | Yes     | Yes  |      16 |    7 |    0 | ??   |   30 | 0.19.12               |
+| [Frozen Lemmy](https://lemmy.frozeninferno.xyz) (lemmy.frozeninferno.xyz)                      | Yes  | Yes  | Yes   | Yes     | Yes  |      15 |   90 |    0 | ??   |   30 | 0.19.14               |
 | [Ayom Fórum](https://forum.ayom.media) (forum.ayom.media)                                      | Yes  | No   | Yes   | Yes     | Yes  |      11 |    3 |    0 | 100% |   23 | 0.19.14               |
-| [MTGZone](https://mtgzone.com) (mtgzone.com)                                                   | Yes  | No   | Yes   | No      | Yes  |      10 |    0 |    1 | 99%  |   30 | 0.19.6                |
-| [toast.ooo](https://toast.ooo)                                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |      10 |    3 |    0 | 98%  |   30 | 0.19.13               |
-| [Linux.Community](https://linux.community)                                                     | Yes  | No   | Yes   | No      | No   |       9 |    5 |    0 | ??   |   30 | 0.19.12               |
-| [Aggregatet](https://aggregatet.org) (aggregatet.org)                                          | Yes  | No   | Yes   | Yes     | Yes  |       9 |    0 |    3 | 96%  |   21 | 0.19.12               |
+| [MTGZone](https://mtgzone.com) (mtgzone.com)                                                   | Yes  | No   | Yes   | No      | Yes  |      10 |    0 |    2 | 99%  |   30 | 0.19.6                |
+| [toast.ooo](https://toast.ooo)                                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |      10 |    3 |    0 | ??   |   30 | 0.19.13               |
 | [Cháchara Club](https://chachara.club) (chachara.club)                                         | Yes  | No   | Yes   | Yes     | No   |       9 |    0 |    0 | 100% |    9 | 0.19.11               |
+| [Linux.Community](https://linux.community)                                                     | Yes  | No   | Yes   | No      | No   |       9 |    5 |    0 | ??   |   30 | 0.19.12               |
 | [正在发声](https://fasheng.ing) (fasheng.ing)                                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       9 |    0 |    3 | 100% |   20 | 0.19.12               |
 | [Lemmy.VG](https://lemmy.vg)                                                                   | Yes  | No   | Yes   | Yes     | No   |       8 |    0 |    0 | 100% |   19 | 0.19.11               |
-| [Y'all@theATL.social](https://yall.theatl.social) (yall.theatl.social)                         | Yes  | Yes  | Yes   | Yes     | Yes  |       7 |    1 |    0 | 99%  |   30 | 0.19.13-49-g28c1b7996 |
 | [fed.dyne.org](https://fed.dyne.org)                                                           | Yes  | Yes  | Yes   | No      | Yes  |       7 |    0 |    0 | 99%  |   26 | 0.19.14               |
-| [Lemy](https://lemy.nl) (lemy.nl)                                                              | Yes  | Yes  | Yes   | No      | Yes  |       5 |  374 |    0 | 100% |   29 | 0.19.13               |
-| [Bolhaverso](https://bolha.forum) (bolha.forum)                                                | Yes  | No   | Yes   | Yes     | Yes  |       5 |   24 |    0 | 98%  |   29 | 0.19.13               |
-| [YuruLemmy](https://lemmy.funami.tech) (lemmy.funami.tech)                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       5 |  148 |    2 | 100% |   29 | 0.19.13               |
-| [Real Bitcoin Cash](https://realbitcoin.cash) (realbitcoin.cash)                               | Yes  | Yes  | Yes   | Yes     | Yes  |       5 |    0 |   17 | 100% |   11 | 0.19.14               |
+| [Y'all@theATL.social](https://yall.theatl.social) (yall.theatl.social)                         | Yes  | Yes  | Yes   | Yes     | Yes  |       7 |    1 |    0 | 99%  |   30 | 0.19.13-49-g28c1b7996 |
 | [rereading Forums](https://forums.rereading.space) (forums.rereading.space)                    | Yes  | No   | Yes   | No      | No   |       5 |    0 |    0 | 100% |    0 | 0.19.4                |
+| [Bolhaverso](https://bolha.forum) (bolha.forum)                                                | Yes  | No   | Yes   | Yes     | Yes  |       5 |   24 |    0 | 98%  |   29 | 0.19.13               |
 | [Mondom!](https://forum.mondom.eu) (forum.mondom.eu)                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       5 |    0 |    0 | 100% |   10 | 0.19.8                |
-| [adultswim.fan](https://adultswim.fan)                                                         | Yes  | No   | Yes   | Yes     | Yes  |       5 |  179 |    1 | 99%  |   28 | 0.19.12               |
+| [Real Bitcoin Cash](https://realbitcoin.cash) (realbitcoin.cash)                               | Yes  | Yes  | Yes   | Yes     | Yes  |       5 |    0 |   17 | 100% |   11 | 0.19.14               |
+| [YuruLemmy](https://lemmy.funami.tech) (lemmy.funami.tech)                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       5 |  148 |    2 | 100% |   29 | 0.19.13               |
+| [Lemy](https://lemy.nl) (lemy.nl)                                                              | Yes  | Yes  | Yes   | No      | Yes  |       5 |  374 |    0 | 100% |   29 | 0.19.13               |
 | [Philosophy.Cafe](https://philosophy.cafe)                                                     | Yes  | Yes  | Yes   | Yes     | No   |       5 |    0 |    0 | 98%  |   11 | 0.19.11               |
-| [Communick News](https://communick.news) (communick.news)                                      | Yes  | No   | Yes   | No      | Yes  |       4 |    1 |    1 | 99%  |   30 | 0.19.11               |
+| [adultswim.fan](https://adultswim.fan)                                                         | Yes  | No   | Yes   | Yes     | Yes  |       5 |  179 |    1 | 99%  |   28 | 0.19.12               |
 | [Maga Place](https://maga.place) (maga.place)                                                  | Yes  | Yes  | Yes   | Yes     | No   |       4 |    0 |   32 | 100% |    2 | 0.19.13               |
-| [Muffalings](https://lemmy.muffalings.com) (lemmy.muffalings.com)                              | Yes  | Yes  | Yes   | Yes     | Yes  |       4 |    0 |    0 | 100% |   27 | 0.19.14               |
-| [Libertarian Lemmy](https://lemmy.libertarianfellowship.org) (lemmy.libertarianfellowship.org) | Yes  | No   | Yes   | Yes     | Yes  |       4 |    0 |    1 | 99%  |   17 | 0.19.11               |
-| [Wahrheitslemmy](https://lemmy.hogru.ch) (lemmy.hogru.ch)                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       4 |    4 |    0 | 99%  |   29 | 0.19.13               |
-| [RBlind](https://rblind.com) (rblind.com)                                                      | Yes  | No   | Yes   | Yes     | Yes  |       4 |    4 |    0 | ??   |   30 | 0.19.13               |
-| [R.NF](https://r.nf)                                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       4 |    0 |   25 | 99%  |   27 | 0.19.14               |
-| [Lemmy.eus](https://lemmy.eus)                                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       4 |    1 |    0 | ??   |   60 | 0.19.7                |
 | [Internet burnout](https://group.lt) (group.lt)                                                | Yes  | Yes  | Yes   | Yes     | Yes  |       4 |    0 |    0 | 100% |   48 | 0.19.14               |
 | [LemmyBeFree](https://lemmybefree.net) (lemmybefree.net)                                       | Yes  | Yes  | Yes   | No      | Yes  |       4 |    1 |    1 | 100% |    5 | 0.19.12               |
+| [Communick News](https://communick.news) (communick.news)                                      | Yes  | No   | Yes   | No      | Yes  |       4 |    1 |    1 | 99%  |   30 | 0.19.11               |
+| [Libertarian Lemmy](https://lemmy.libertarianfellowship.org) (lemmy.libertarianfellowship.org) | Yes  | No   | Yes   | Yes     | Yes  |       4 |    0 |    1 | 99%  |   17 | 0.19.11               |
+| [Lemmy.eus](https://lemmy.eus)                                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       4 |    1 |    0 | ??   |   60 | 0.19.7                |
+| [RBlind](https://rblind.com) (rblind.com)                                                      | Yes  | No   | Yes   | Yes     | Yes  |       4 |    4 |    0 | ??   |   30 | 0.19.13               |
 | [Lemmy きゃ/kya.moe](https://lemmy.kya.moe) (lemmy.kya.moe)                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       4 |    0 |    3 | ??   |   30 | 0.19.14               |
-| [Gremmy](https://gregtech.eu) (gregtech.eu)                                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |   10 |    4 | ??   |   16 | 0.19.14               |
-| [lemmy.billiam.net](https://lemmy.billiam.net)                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |    1 |    0 | ??   |   29 | 0.19.14               |
-| [No Last Name Needed](https://no.lastname.nz) (no.lastname.nz)                                 | Yes  | No   | Yes   | Yes     | Yes  |       3 |    5 |    0 | 100% |   30 | 0.19.12               |
+| [Wahrheitslemmy](https://lemmy.hogru.ch) (lemmy.hogru.ch)                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       4 |    4 |    0 | 99%  |   29 | 0.19.13               |
+| [R.NF](https://r.nf)                                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       4 |    0 |   24 | 99%  |   27 | 0.19.14               |
+| [Muffalings](https://lemmy.muffalings.com) (lemmy.muffalings.com)                              | Yes  | Yes  | Yes   | Yes     | Yes  |       4 |    0 |    0 | 100% |   27 | 0.19.14               |
+| [No Last Name Needed](https://no.lastname.nz) (no.lastname.nz)                                 | Yes  | No   | Yes   | Yes     | Yes  |       3 |    5 |    0 | ??   |   30 | 0.19.12               |
+| [rekabu.ru](https://rekabu.ru)                                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |    0 |    1 | 99%  |   29 | 0.19.13               |
+| [Fanaticus](https://fanaticus.social) (fanaticus.social)                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |    1 |    0 | 99%  |   30 | 0.19.3                |
+| [lemmy.4d2.org](https://lemmy.4d2.org)                                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |    8 |    0 | ??   |   12 | 0.19.13               |
+| [LibreTechni.ca](https://libretechni.ca)                                                       | Yes  | Yes  | Yes   | No      | No   |       3 |    1 |    0 | 99%  |   17 | 0.19.5                |
+| [RollenspielMonster](https://rollenspiel.forum) (rollenspiel.forum)                            | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |    9 |    0 | 100% |   28 | 0.19.14               |
+| [BROWNTOWN](https://lemmy.browntown.dev) (lemmy.browntown.dev)                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |    0 |    0 | ??   |    2 | 0.19.13               |
+| [MGTOW Lemmy](https://mgtowlemmy.org) (mgtowlemmy.org)                                         | Yes  | No   | Yes   | No      | No   |       3 |    1 |    0 | 100% |    0 | 0.19.14               |
+| [50501](https://50501.chat) (50501.chat)                                                       | Yes  | No   | Yes   | No      | Yes  |       3 |  270 |    2 | ??   |    9 | 0.19.11               |
 | [Lemmy](https://leaf.dance) (leaf.dance)                                                       | Yes  | No   | Yes   | Yes     | Yes  |       3 |    0 |    0 | ??   |    5 | 0.19.13               |
 | [Lemmini Elettrici](https://lemminielettrici.it) (lemminielettrici.it)                         | Yes  | No   | No    | No      | No   |       3 |    0 |    0 | 100% |    8 | 0.19.10               |
+| [Gremmy](https://gregtech.eu) (gregtech.eu)                                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |   10 |    4 | ??   |   16 | 0.19.14               |
+| [lemmy.billiam.net](https://lemmy.billiam.net)                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |    1 |    0 | ??   |   29 | 0.19.14               |
 | [Tech pr0n](https://tech.pr0n.pl) (tech.pr0n.pl)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |    0 |    0 | 100% |   43 | 0.19.13               |
-| [BROWNTOWN](https://lemmy.browntown.dev) (lemmy.browntown.dev)                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |    0 |    0 | ??   |    2 | 0.19.13               |
-| [LibreTechni.ca](https://libretechni.ca)                                                       | Yes  | Yes  | Yes   | No      | No   |       3 |    1 |    0 | 99%  |   17 | 0.19.5                |
-| [lemmy.4d2.org](https://lemmy.4d2.org)                                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |    8 |    0 | ??   |   12 | 0.19.13               |
-| [50501](https://50501.chat) (50501.chat)                                                       | Yes  | No   | Yes   | No      | Yes  |       3 |  270 |    2 | ??   |    9 | 0.19.11               |
 | [monyet.cc](https://monyet.cc)                                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |    1 |    1 | ??   |   30 | 0.19.3                |
-| [RollenspielMonster](https://rollenspiel.forum) (rollenspiel.forum)                            | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |    9 |    0 | 100% |   28 | 0.19.14               |
-| [Fanaticus](https://fanaticus.social) (fanaticus.social)                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |    1 |    0 | 99%  |   30 | 0.19.3                |
-| [rekabu.ru](https://rekabu.ru)                                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       3 |    0 |    1 | 99%  |   29 | 0.19.13               |
-| [MGTOW Lemmy](https://mgtowlemmy.org) (mgtowlemmy.org)                                         | Yes  | No   | Yes   | No      | No   |       3 |    1 |    0 | 100% |    0 | 0.19.14               |
-| [fstab](https://fstab.sh) (fstab.sh)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 99%  |   29 | 0.19.13               |
-| [NodeSphere](https://nodesphere.site) (nodesphere.site)                                        | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    1 |    0 | 99%  |    0 | 0.19.13               |
-| [Beru Co.ddit](https://lemmy.beru.co) (lemmy.beru.co)                                          | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    1 |    0 | 99%  |   30 | 0.19.13-modified      |
-| [DuckPond](https://lemmy.duckpond.social) (lemmy.duckpond.social)                              | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    6 |    0 | 96%  |    5 | 0.19.13               |
-| [Belgae Social](https://belgae.social) (belgae.social)                                         | Yes  | Yes  | Yes   | No      | No   |       2 |    0 |    0 | ??   |    5 | 0.19.12               |
-| [Lemmy Fan](https://lemmy.fan) (lemmy.fan)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    8 |    0 | ??   |    5 | 0.19.13               |
-| [lemmy.hostux.net](https://l.hostux.net) (l.hostux.net)                                        | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 100% |   10 | 0.19.14               |
-| [UmU](https://lemmy.umucat.day) (lemmy.umucat.day)                                             | Yes  | No   | Yes   | No      | No   |       2 |    0 |    0 | 100% |   23 | 0.19.13               |
-| [0xDD](https://0xdd.org.ru) (0xdd.org.ru)                                                      | Yes  | No   | Yes   | No      | Yes  |       2 |    0 |    1 | 100% |   44 | 0.19.13               |
-| [DubVee](https://dubvee.org) (dubvee.org)                                                      | Yes  | No   | Yes   | Yes     | Yes  |       2 | 1216 |    0 | 97%  |   30 | 0.19.14               |
-| [Lemmy Brief Guru](https://lemmy.brief.guru) (lemmy.brief.guru)                                | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | ??   |   30 | 0.19.13               |
-| [Champserver](https://champserver.net) (champserver.net)                                       | Yes  | No   | Yes   | Yes     | Yes  |       2 |    1 |    0 | 100% |   24 | 0.19.5                |
-| [Hacker Talks](https://hackertalks.com) (hackertalks.com)                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 99%  |   29 | 0.19.14               |
-| [Unryzer.eu](https://lemmy.unryzer.eu) (lemmy.unryzer.eu)                                      | Yes  | No   | Yes   | Yes     | Yes  |       2 |    1 |    0 | ??   |   28 | 0.19.14               |
-| [Mocha & Muses](https://lemmy.jtworld.xyz) (lemmy.jtworld.xyz)                                 | Yes  | No   | Yes   | Yes     | Yes  |       2 |    0 |    0 | 99%  |    4 | 0.19.12               |
-| [Corndog.social](https://corndog.social)                                                       | Yes  | No   | Yes   | Yes     | Yes  |       2 |    0 |    0 | ??   |   28 | 0.19.13               |
-| [Vigenere](https://lemmy.vigenere.nl) (lemmy.vigenere.nl)                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 93%  |    1 | 0.19.13               |
-| [Bad At Being Social](https://badatbeing.social) (badatbeing.social)                           | Yes  | Yes  | Yes   | No      | Yes  |       2 |    7 |    0 | 99%  |   29 | 0.19.11               |
-| [Welppp](https://welppp.com) (welppp.com)                                                      | Yes  | Yes  | No    | Yes     | Yes  |       2 |    0 |   25 | ??   |   17 | 0.19.11               |
-| [supernova.place](https://supernova.place)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 100% |   29 | 0.19.12               |
-| [OrcasEnjoyingYachts](https://orcas.enjoying.yachts) (orcas.enjoying.yachts)                   | Yes  | No   | Yes   | No      | Yes  |       2 |    1 |    0 | ??   |   29 | 0.19.12               |
-| [Baraza](https://baraza.africa) (baraza.africa)                                                | Yes  | Yes  | No    | Yes     | Yes  |       2 |    0 |    0 | ??   |   61 | 0.19.14               |
-| [Voyager App Test](https://lt.harding.dev) (lt.harding.dev)                                    | Yes  | Yes  | Yes   | Yes     | No   |       2 |    0 |    0 | 100% |   20 | 0.19.11               |
-| [lonestar-lemmy](https://lonestarlemmy.mooo.com) (lonestarlemmy.mooo.com)                      | Yes  | Yes  | Yes   | No      | Yes  |       2 |    0 |    5 | 58%  |   29 | 0.19.14               |
-| [Jeremias' Lemmy](https://social.jears.at) (social.jears.at)                                   | Yes  | No   | Yes   | Yes     | Yes  |       2 |    1 |    0 | ??   |   30 | 0.19.13               |
-| [SKBLu](https://lu.skbo.net) (lu.skbo.net)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    4 |    0 | ??   |   26 | 0.19.14               |
-| [Nocturnal Lemmy](https://lemmy.nocturnal.garden) (lemmy.nocturnal.garden)                     | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 100% |    9 | 0.19.12               |
-| [Kutsuya.dev](https://kutsuya.dev)                                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 98%  |   29 | 0.19.11               |
-| [Lemmy](https://lemmy.asc6.org) (lemmy.asc6.org)                                               | Yes  | No   | Yes   | Yes     | Yes  |       2 |    3 |    0 | 96%  |   29 | 0.19.13               |
 | [SUB Community](https://sub.community) (sub.community)                                         | Yes  | No   | Yes   | No      | Yes  |       2 |    0 |    0 | 100% |   11 | 0.19.13               |
-| [tucson.social](https://tucson.social)                                                         | Yes  | Yes  | No    | No      | No   |       2 |    0 |    0 | 100% |   30 | 0.19.13               |
-| [Ugh!Lemmy](https://lem.ugh.im) (lem.ugh.im)                                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 95%  |    8 | 0.19.13               |
-| [Safest Space](https://safest.space) (safest.space)                                            | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 100% |    2 | 0.19.13               |
+| [Kutsuya.dev](https://kutsuya.dev)                                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 98%  |   29 | 0.19.11               |
+| [DubVee](https://dubvee.org) (dubvee.org)                                                      | Yes  | No   | Yes   | Yes     | Yes  |       2 | 1216 |    0 | 97%  |   30 | 0.19.14               |
+| [Unryzer.eu](https://lemmy.unryzer.eu) (lemmy.unryzer.eu)                                      | Yes  | No   | Yes   | Yes     | Yes  |       2 |    1 |    0 | ??   |   28 | 0.19.14               |
 | [Circenn Lemmy](https://lemmy.circenn.win) (lemmy.circenn.win)                                 | Yes  | No   | Yes   | Yes     | Yes  |       2 |    0 |    0 | 99%  |    0 | 0.19.13               |
-| [MakeArmy Lemmy](https://lemmy.makearmy.io) (lemmy.makearmy.io)                                | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 99%  |    4 | 0.19.12               |
 | [Bingus Lemmy](https://lemmy.bingus.is) (lemmy.bingus.is)                                      | Yes  | No   | Yes   | Yes     | Yes  |       2 |    0 |    0 | 100% |    1 | 0.19.13               |
-| [Lemmy Staphup](https://lemmy.staphup.nl) (lemmy.staphup.nl)                                   | Yes  | No   | Yes   | No      | Yes  |       2 |    0 |    8 | ??   |   37 | 0.19.14               |
-| [BlendIT - BSD Cafe](https://blendit.bsd.cafe) (blendit.bsd.cafe)                              | Yes  | No   | Yes   | Yes     | Yes  |       2 |    0 |    0 | 100% |   25 | 0.19.3                |
+| [Nocturnal Lemmy](https://lemmy.nocturnal.garden) (lemmy.nocturnal.garden)                     | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 100% |    9 | 0.19.12               |
+| [fstab](https://fstab.sh) (fstab.sh)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 99%  |   29 | 0.19.13               |
+| [Welppp](https://welppp.com) (welppp.com)                                                      | Yes  | Yes  | No    | Yes     | Yes  |       2 |    0 |   24 | ??   |   17 | 0.19.11               |
+| [lemmy.hostux.net](https://l.hostux.net) (l.hostux.net)                                        | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 100% |   10 | 0.19.14               |
+| [Pobierz](https://lemmy.ohaa.xyz) (lemmy.ohaa.xyz)                                             | Yes  | Yes  | Yes   | No      | Yes  |       2 |  149 |    0 | 99%  |   28 | 0.19.13               |
+| [Champserver](https://champserver.net) (champserver.net)                                       | Yes  | No   | Yes   | Yes     | Yes  |       2 |    1 |    0 | ??   |   24 | 0.19.5                |
+| [Safest Space](https://safest.space) (safest.space)                                            | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 100% |    2 | 0.19.13               |
+| [Lemmy](https://lemmy.asc6.org) (lemmy.asc6.org)                                               | Yes  | No   | Yes   | Yes     | Yes  |       2 |    3 |    0 | 96%  |   29 | 0.19.13               |
+| [UmU](https://lemmy.umucat.day) (lemmy.umucat.day)                                             | Yes  | No   | Yes   | No      | No   |       2 |    0 |    0 | 100% |   23 | 0.19.13               |
+| [Mocha & Muses](https://lemmy.jtworld.xyz) (lemmy.jtworld.xyz)                                 | Yes  | No   | Yes   | Yes     | Yes  |       2 |    0 |    0 | 99%  |    4 | 0.19.12               |
+| [Lemmy Brief Guru](https://lemmy.brief.guru) (lemmy.brief.guru)                                | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | ??   |   30 | 0.19.13               |
+| [NodeSphere](https://nodesphere.site) (nodesphere.site)                                        | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    1 |    0 | 99%  |    0 | 0.19.13               |
 | [SAGF](https://lmy.sagf.io) (lmy.sagf.io)                                                      | Yes  | No   | Yes   | Yes     | Yes  |       2 |    0 |    0 | 98%  |   28 | 0.19.14               |
-| [EventFrontier](https://eventfrontier.com) (eventfrontier.com)                                 | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.8                |
-| [ConorAB](https://lemmy.conorab.com) (lemmy.conorab.com)                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 97%  |   29 | 0.19.12               |
-| [lemmy.helios42.de](https://lemmy.helios42.de)                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   30 | 0.19.12               |
-| [KokoReddit](https://lemmy.kokomo.cloud) (lemmy.kokomo.cloud)                                  | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | 99%  |   16 | 0.19.13               |
-| [Lemmy: Bestiverse](https://lemmy.bestiver.se) (lemmy.bestiver.se)                             | Yes  | Yes  | Yes   | No      | Yes  |       1 |    1 |    1 | 100% |   15 | 0.19.5                |
-| [lemmy.onlylans.io](https://lemmy.onlylans.io)                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    2 |    0 | 97%  |   30 | 0.19.8                |
-| [Linkage @ DS8](https://linkage.ds8.zone) (linkage.ds8.zone)                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   56 | 0.19.13               |
-| [Crony's Dungeon](https://lemmy.cronyakatsuki.xyz) (lemmy.cronyakatsuki.xyz)                   | Yes  | No   | Yes   | Yes     | Yes  |       1 |    1 |    0 | 99%  |   24 | 0.19.13               |
-| [Lemmy.InButts.LOL](https://lemmy.inbutts.lol)                                                 | Yes  | No   | Yes   | Yes     | Yes  |       1 |    1 |    1 | 100% |   29 | 0.19.12               |
-| [lemmy.net.au](https://lemmy.net.au)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    2 | 100% |    9 | 0.19.9                |
-| [L E F L I](https://lef.li) (lef.li)                                                           | Yes  | Yes  | Yes   | No      | Yes  |       1 |    0 |    0 | 99%  |   29 | 0.19.14               |
-| [Digital's Lemmy](https://lemmy.digitalcharon.in) (lemmy.digitalcharon.in)                     | Yes  | No   | Yes   | Yes     | Yes  |       1 |    1 |    0 | 99%  |   29 | 0.19.13               |
-| [lemmy](https://lemmy.self-hosted.site) (lemmy.self-hosted.site)                               | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.13               |
-| [Campground](https://lemmy.aicampground.com) (lemmy.aicampground.com)                          | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 95%  |   10 | 0.19.13               |
-| [mimiclem.me](https://mimiclem.me)                                                             | Yes  | No   | Yes   | No      | Yes  |       1 |    2 |    0 | ??   |   29 | 0.19.12               |
-| [Tespia](https://lemmy.tespia.org) (lemmy.tespia.org)                                          | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 95%  |    7 | 0.19.11               |
-| [Beagle Quest](https://lemmy.beagle.quest) (lemmy.beagle.quest)                                | Yes  | Yes  | Yes   | No      | Yes  |       1 |    0 |    0 | ??   |   21 | 0.19.13               |
-| [Alt Media](https://altmedia.house) (altmedia.house)                                           | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    2 | 99%  |    7 | 0.19.11               |
-| [Rizzlers](https://lemmy.rizzlers.win) (lemmy.rizzlers.win)                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | 96%  |    1 | 0.19.13               |
-| [Sky-Lemmy](https://lemmy.skyjake.fi) (lemmy.skyjake.fi)                                       | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   29 | 0.19.12               |
-| [   ](https://links.rocks) (links.rocks)                                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | ??   |   30 | 0.19.11               |
-| [Lemmy](https://lemmy.caliban.io) (lemmy.caliban.io)                                           | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   19 | 0.19.14               |
-| [tkohhh.social](https://tkohhh.social)                                                         | Yes  | No   | Yes   | Yes     | Yes  |       1 |    2 |    0 | ??   |   29 | 0.19.12               |
-| [crocworld lemmy](https://lemmy.croc.pw) (lemmy.croc.pw)                                       | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.14               |
-| [lidstah's lemmy](https://lemmy.lidstah.info) (lemmy.lidstah.info)                             | Yes  | Yes  | No    | Yes     | Yes  |       1 |    0 |    0 | 100% |    7 | 0.19.13               |
-| [Escape Tool](https://esc.ozar.dev) (esc.ozar.dev)                                             | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    2 | 0.19.13               |
-| [TimeSink](https://timesink.p3nguin.org) (timesink.p3nguin.org)                                | Yes  | No   | Yes   | Yes     | Yes  |       1 |    2 |    0 | 100% |   16 | 0.19.13               |
-| [vger.social](https://vger.social)                                                             | Yes  | No   | Yes   | Yes     | Yes  |       1 |    5 |    0 | 99%  |   20 | 0.19.11               |
-| [The Wired](https://wired.bluemarch.art) (wired.bluemarch.art)                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    4 |    0 | 99%  |   30 | 0.19.14               |
-| [lemmy.amxl.com](https://lemmy.amxl.com)                                                       | Yes  | No   | Yes   | Yes     | Yes  |       1 |  136 |    0 | 99%  |   31 | 0.19.14               |
-| [Cyberia](https://cyberia.hydrar.de) (cyberia.hydrar.de)                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    7 | 0.19.12               |
-| [8th World](https://lemmy.8th.world) (lemmy.8th.world)                                         | Yes  | No   | Yes   | No      | No   |       1 |    0 |    0 | 100% |   28 | 0.19.10               |
-| [Wooskey Lemmy](https://lemmy.thewooskeys.com) (lemmy.thewooskeys.com)                         | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   18 | 0.19.14               |
-| [bmck.au](https://lemmy.bmck.au) (lemmy.bmck.au)                                               | Yes  | Yes  | No    | Yes     | Yes  |       1 |    0 |    0 | 100% |   29 | 0.19.6-beta.14        |
-| [Multivers](https://lemmy.multivers.cc) (lemmy.multivers.cc)                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | 97%  |   29 | 0.19.8                |
-| [Personal Lemmy](https://lemmy.100010101.xyz) (lemmy.100010101.xyz)                            | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    3 |    0 | 100% |   28 | 0.19.13               |
-| [what.if.ua lemmit](https://lemmit.nyc.what.if.ua) (lemmit.nyc.what.if.ua)                     | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    2 |    0 | ??   |    1 | 0.19.14-modified      |
-| [Mio's site](https://lemmy.mio19.uk) (lemmy.mio19.uk)                                          | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    6 | 0.19.12               |
-| [Roofo](https://l.roofo.cc) (l.roofo.cc)                                                       | Yes  | No   | Yes   | Yes     | Yes  |       1 |    5 |    0 | ??   |   30 | 0.19.14               |
-| [K2PK Lemmyverse](https://lemmy.k2pk.com) (lemmy.k2pk.com)                                     | Yes  | Yes  | Yes   | No      | Yes  |       1 |    0 |    0 | ??   |    8 | 0.19.13               |
-| [Uninsane](https://lemmy.uninsane.org) (lemmy.uninsane.org)                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   31 | 0.19.14               |
-| [Horwood Cloud](https://lemmy.horwood.cloud) (lemmy.horwood.cloud)                             | Yes  | Yes  | Yes   | No      | Yes  |       1 |    0 |    0 | 99%  |   28 | 0.19.14               |
-| [Hard Pass](https://hardpass.lol) (hardpass.lol)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |    8 | 0.19.11               |
-| [spgrn](https://spgrn.com) (spgrn.com)                                                         | Yes  | Yes  | Yes   | No      | Yes  |       1 |    3 |    0 | 99%  |   30 | 0.19.13               |
-| [From Shadows](https://lemmy.fromshado.ws) (lemmy.fromshado.ws)                                | Yes  | No   | Yes   | No      | Yes  |       1 |    2 |    0 | 99%  |   30 | 0.19.14               |
-| [My Lemmy shed](https://lemmy.ugjka.net) (lemmy.ugjka.net)                                     | Yes  | No   | Yes   | Yes     | Yes  |       1 |    2 |    0 | ??   |    1 | 0.19.14               |
-| [Lemmy](https://lemmy.civl.cc) (lemmy.civl.cc)                                                 | Yes  | Yes  | Yes   | No      | Yes  |       1 |    0 |    0 | 100% |    0 | 0.19.14               |
-| [Cult I Mean Group](https://lemmy.cultimean.group) (lemmy.cultimean.group)                     | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   30 | 0.19.8                |
-| [lemmy.keniir.wtf](https://lemmy.keniir.wtf)                                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    8 | 0.19.10               |
-| [criticalbasics](https://lemmy.criticalbasics.xyz) (lemmy.criticalbasics.xyz)                  | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   29 | 0.19.13               |
-| [masto.community](https://lemmy.masto.community) (lemmy.masto.community)                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   29 | 0.19.12               |
-| [lemmyland](https://lemmyland.com) (lemmyland.com)                                             | Yes  | No   | Yes   | Yes     | Yes  |       1 |    4 |    0 | 100% |   30 | 0.19.13               |
-| [Tevtra](https://lemmy.tevtra.com) (lemmy.tevtra.com)                                          | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 91%  |    0 | 0.19.13               |
-| [lemmy.asudox.dev](https://lemmy.asudox.dev)                                                   | Yes  | No   | Yes   | Yes     | Yes  |       1 |  377 |    0 | 99%  |   11 | 0.19.14               |
-| [lemmy.eirides.net](https://lemmy.eirides.net)                                                 | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 98%  |    4 | 0.19.12               |
-| [foros.fediverso.gal](https://foros.fediverso.gal)                                             | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 98%  |   36 | 0.19.3                |
-| [Boing Lemmy](https://lm.boing.icu) (lm.boing.icu)                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    7 | 0.19.14               |
-| [Ḹḗṃɯӳ](https://lemmy.tgxn.net) (lemmy.tgxn.net)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 95%  |   26 | 0.19.12               |
-| [lemmy.imagisphe.re](https://lemmy.imagisphe.re)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    2 | 99%  |   27 | 0.19.13               |
-| [CringeCollective](https://lemmy.cringecollective.io) (lemmy.cringecollective.io)              | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   19 | 0.19.3                |
-| [New Site](https://lemmy.14042003.xyz) (lemmy.14042003.xyz)                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    4 | 0.19.9                |
-| [tta.wtf](https://l.tta.wtf) (l.tta.wtf)                                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | ??   |   29 | 0.19.13               |
-| [Altgag](https://altgag.net) (altgag.net)                                                      | Yes  | No   | No    | Yes     | Yes  |       1 |    0 |    1 | 100% |    8 | 0.19.10               |
-| [Lemmy](https://lemmy.tobyvin.dev) (lemmy.tobyvin.dev)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.13               |
-| [Umweltschutz Links](https://natur.23.nu) (natur.23.nu)                                        | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   19 | 0.19.11               |
-| [lemmy.imontheweb.net](https://lemmy.imontheweb.net)                                           | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    4 | 0.19.11               |
-| [Freewill Tiger](https://lemmy.freewilltiger.page) (lemmy.freewilltiger.page)                  | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   13 | 0.19.11               |
-| [SSBA](https://lemmy.ssba.com) (lemmy.ssba.com)                                                | Yes  | No   | Yes   | No      | Yes  |       1 |    0 |    0 | ??   |   29 | 0.19.3                |
-| [Lemmy Balamb](https://lemmy.balamb.fr) (lemmy.balamb.fr)                                      | Yes  | No   | Yes   | No      | No   |       1 |    0 |    0 | ??   |   29 | 0.19.14               |
-| [Far Harbor](https://lemmy.bklrzn.me) (lemmy.bklrzn.me)                                        | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    1 | 0.19.13               |
-| [NerdHouse Social](https://social.nerdhouse.io) (social.nerdhouse.io)                          | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   30 | 0.19.14               |
-| [Security Cafe](https://lemmy.securitycafe.ca) (lemmy.securitycafe.ca)                         | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |    9 | 0.19.14               |
-| [sammich.es](https://sammich.es)                                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   29 | 0.19.3                |
-| [FederateLOL](https://lemmy.federate.lol) (lemmy.federate.lol)                                 | Yes  | No   | Yes   | Yes     | Yes  |       1 |    1 |    0 | ??   |   28 | 0.19.14               |
-| [Fedifriends Lemmy](https://lemmy.fedifriends.social) (lemmy.fedifriends.social)               | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   27 | 0.19.14               |
-| [okr765](https://lemmy.okr765.com) (lemmy.okr765.com)                                          | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    2 |    0 | 100% |   21 | 0.19.9                |
-| [Campfyre](https://campfyre.nickwebster.dev) (campfyre.nickwebster.dev)                        | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |   12 |    0 | ??   |   29 | 0.19.7                |
-| [Johnnei's World](https://lemmy.johnnei.org) (lemmy.johnnei.org)                               | Yes  | No   | Yes   | Yes     | Yes  |       1 |    2 |    0 | ??   |   29 | 0.19.13               |
-| [MRM](https://lemmy.mrm.one) (lemmy.mrm.one)                                                   | Yes  | No   | Yes   | Yes     | Yes  |       1 |   39 |    0 | 99%  |   30 | 0.19.14               |
-| [Lemmy](https://lemmy.blackeco.com) (lemmy.blackeco.com)                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | ??   |   29 | 0.19.14               |
-| [PopTalk](https://poptalk.scrubbles.tech) (poptalk.scrubbles.tech)                             | Yes  | No   | Yes   | No      | Yes  |       1 |   10 |    0 | 99%  |   30 | 0.19.11               |
-| [Ibbit](https://ibbit.at) (ibbit.at)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    2 | 100% |    5 | 0.19.12               |
-| [SHA1](https://sha1.nl) (sha1.nl)                                                              | Yes  | No   | Yes   | Yes     | Yes  |       1 |    1 |    0 | ??   |   30 | 0.19.14               |
-| [Tom's Lemmy](https://lemmy.tomkoreny.com) (lemmy.tomkoreny.com)                               | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   10 | 0.19.9                |
-| [the lemmy.monster](https://lemmy.monster) (lemmy.monster)                                     | Yes  | No   | Yes   | Yes     | Yes  |       1 |   11 |    0 | 98%  |   30 | 0.19.11               |
-| [TSL_Lemmy](https://lemmy.stefanoprenna.com) (lemmy.stefanoprenna.com)                         | Yes  | No   | Yes   | Yes     | Yes  |       1 |    3 |    0 | ??   |   25 | 0.19.14               |
-| [fedii.me](https://fedii.me)                                                                   | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   29 | 0.19.13               |
-| [teuto](https://lemmy.teuto.icu) (lemmy.teuto.icu)                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   28 | 0.19.14               |
-| [Ga toch fietsen!](https://lemmy.emphisia.nl) (lemmy.emphisia.nl)                              | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    0 | 0.19.14               |
-| [Trippy Lemmy](https://lemmy.trippy.pizza) (lemmy.trippy.pizza)                                | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.11               |
-| [Lemmy](https://lemmy.glue.io) (lemmy.glue.io)                                                 | Yes  | No   | Yes   | Yes     | Yes  |       1 |    1 |    0 | 97%  |    6 | 0.19.13               |
-| [Lemmy](https://lemmy.cleberg.net) (lemmy.cleberg.net)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    8 | 0.19.9                |
-| [lemmy by Z31TUNG](https://lemmy.davidfreina.at) (lemmy.davidfreina.at)                        | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.13               |
-| [LANoftheDead](https://odin.lanofthedead.xyz) (odin.lanofthedead.xyz)                          | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    5 |    0 | ??   |   30 | 0.19.12               |
-| [Mods4Ever](https://lemmy.mods4ever.com) (lemmy.mods4ever.com)                                 | Yes  | No   | Yes   | Yes     | No   |       1 |    0 |    0 | 100% |   29 | 0.19.13               |
-| [darvit](https://lemmy.darvit.nl) (lemmy.darvit.nl)                                            | Yes  | No   | Yes   | Yes     | Yes  |       1 |    2 |    0 | ??   |   29 | 0.19.11               |
-| [StuartLemmy](https://lemmy.stuart.fun) (lemmy.stuart.fun)                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    9 | 0.19.13               |
-| [LQX Lemmy](https://lemmy.lqx.net) (lemmy.lqx.net)                                             | Yes  | Yes  | Yes   | No      | Yes  |       1 |    0 |    0 | 99%  |   11 | 0.19.13               |
-| [lemmy.fedi.zutto.fi](https://lemmy.fedi.zutto.fi)                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    3 |    0 | 100% |   18 | 0.19.14               |
-| [Uhhoh!](https://lemmy.uhhoh.com) (lemmy.uhhoh.com)                                            | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | ??   |   29 | 0.19.14               |
-| [FediTown](https://feditown.com) (feditown.com)                                                | Yes  | No   | Yes   | Yes     | Yes  |       1 |    5 |    0 | ??   |   26 | 0.19.14               |
-| [idlestate](https://news.idlestate.org) (news.idlestate.org)                                   | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   30 | 0.19.14               |
-| [Bowyerhub](https://lemmy.bowyerhub.uk) (lemmy.bowyerhub.uk)                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    9 | 0.19.9                |
-| [Lemmy Posterdati](https://l.posterdati.it) (l.posterdati.it)                                  | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | 99%  |   12 | 0.19.13               |
-| [NekuSoul-Lemmy](https://lemmy.nekusoul.de) (lemmy.nekusoul.de)                                | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   29 | 0.19.12               |
-| [Lemmy GayFR](https://links.gayfr.online) (links.gayfr.online)                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |  189 |    0 | 100% |   21 | 0.19.14               |
-| [Lemmy](https://lemmy.sal.web.tr) (lemmy.sal.web.tr)                                           | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    4 | 0.19.12               |
-| [Dispater's PG](https://lemmy.almostadatacenter.social) (lemmy.almostadatacenter.social)       | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    0 | 0.19.14               |
-| [Maechlers Lemmy](https://lemmy.maechler.cloud) (lemmy.maechler.cloud)                         | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    0 | 0.19.11               |
-| [federate.cc](https://lemmy.federate.cc) (lemmy.federate.cc)                                   | Yes  | Yes  | Yes   | No      | Yes  |       1 |   46 |    0 | 98%  |   29 | 0.19.12               |
-| [Jamesj999 Lemmy](https://lemmy.jamesj999.co.uk) (lemmy.jamesj999.co.uk)                       | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   30 | 0.19.9                |
-| [LemmyIs.Fun](https://lemmyis.fun)                                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   30 | 0.19.13               |
-| [secnd.me](https://lemmy.secnd.me) (lemmy.secnd.me)                                            | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   30 | 0.19.14               |
-| [LemmyOHIO](https://lemmyoh.io) (lemmyoh.io)                                                   | Yes  | No   | Yes   | No      | Yes  |       1 |    0 |    0 | 100% |    0 | 0.19.13               |
-| [Lemmynal Space](https://lemmynal.space) (lemmynal.space)                                      | Yes  | Yes  | No    | Yes     | Yes  |       1 |  196 |    0 | 100% |    1 | 0.19.13               |
-| [Deedium Fediverse](https://lemmy.deedium.nl) (lemmy.deedium.nl)                               | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   20 | 0.19.13               |
-| [Lebowski.Social](https://lebowski.social)                                                     | Yes  | No   | Yes   | Yes     | Yes  |       1 |  121 |    0 | 100% |   29 | 0.19.13               |
-| [Discover](https://discover.deltanauten.de) (discover.deltanauten.de)                          | Yes  | Yes  | Yes   | Yes     | No   |       1 |    0 |    0 | ??   |   28 | 0.19.12               |
-| [ubergeek77's Lemmy](https://lemmy.ubergeek77.chat) (lemmy.ubergeek77.chat)                    | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |   11 |    0 | 99%  |   30 | 0.19.7                |
-| [quadball.app](https://quadball.app)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    4 | 0.19.13               |
-| [Down On The Street](https://downonthestreet.eu) (downonthestreet.eu)                          | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   10 | 0.19.8                |
-| [Rent a Drunk](https://rentadrunk.org) (rentadrunk.org)                                        | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | 99%  |   27 | 0.19.14               |
-| [Spaceships Lemmy](https://lemmy.spaceships.me) (lemmy.spaceships.me)                          | Yes  | No   | Yes   | No      | Yes  |       1 |    2 |    0 | ??   |   11 | 0.19.14               |
-| [lemmy.pierre-couy.fr](https://lemmy.pierre-couy.fr)                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.13               |
-| [unboiled.info](https://lemmy.unboiled.info) (lemmy.unboiled.info)                             | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   29 | 0.19.14               |
-| [rDrama](https://rdrama.co) (rdrama.co)                                                        | Yes  | No   | Yes   | No      | Yes  |       1 |    0 |    0 | ??   |    2 | 0.19.13               |
-| [Lemmy - RazBot](https://lemmy.razbot.xyz) (lemmy.razbot.xyz)                                  | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |   10 |    0 | 99%  |   27 | 0.19.14-beta.2        |
-| [Free as...](https://lem.free.as) (lem.free.as)                                                | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   30 | 0.19.14               |
-| [Lemmy](https://lemmy.hangdaan.com) (lemmy.hangdaan.com)                                       | Yes  | No   | Yes   | No      | Yes  |       1 |    0 |    0 | ??   |   10 | 0.19.14               |
-| [chi~](https://mouse.chitanda.moe) (mouse.chitanda.moe)                                        | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    1 | 98%  |   12 | 0.19.7                |
+| [lonestar-lemmy](https://lonestarlemmy.mooo.com) (lonestarlemmy.mooo.com)                      | Yes  | Yes  | Yes   | No      | Yes  |       2 |    0 |    5 | 58%  |   29 | 0.19.14               |
+| [Ugh!Lemmy](https://lem.ugh.im) (lem.ugh.im)                                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 95%  |    8 | 0.19.13               |
+| [Voyager App Test](https://lt.harding.dev) (lt.harding.dev)                                    | Yes  | Yes  | Yes   | Yes     | No   |       2 |    0 |    0 | 100% |   20 | 0.19.11               |
+| [OrcasEnjoyingYachts](https://orcas.enjoying.yachts) (orcas.enjoying.yachts)                   | Yes  | No   | Yes   | No      | Yes  |       2 |    1 |    0 | ??   |   29 | 0.19.12               |
+| [Lemmy Staphup](https://lemmy.staphup.nl) (lemmy.staphup.nl)                                   | Yes  | No   | Yes   | No      | Yes  |       2 |    0 |    8 | ??   |   37 | 0.19.14               |
+| [supernova.place](https://supernova.place)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 100% |   29 | 0.19.12               |
+| [SKBLu](https://lu.skbo.net) (lu.skbo.net)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    4 |    0 | ??   |   26 | 0.19.14               |
+| [DuckPond](https://lemmy.duckpond.social) (lemmy.duckpond.social)                              | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    6 |    0 | 96%  |    5 | 0.19.13               |
+| [0xDD](https://0xdd.org.ru) (0xdd.org.ru)                                                      | Yes  | No   | Yes   | No      | Yes  |       2 |    0 |    1 | 100% |   44 | 0.19.13               |
+| [tucson.social](https://tucson.social)                                                         | Yes  | Yes  | No    | No      | No   |       2 |    0 |    0 | 100% |   30 | 0.19.13               |
+| [Corndog.social](https://corndog.social)                                                       | Yes  | No   | Yes   | Yes     | Yes  |       2 |    0 |    0 | ??   |   28 | 0.19.13               |
+| [Bad At Being Social](https://badatbeing.social) (badatbeing.social)                           | Yes  | Yes  | Yes   | No      | Yes  |       2 |    7 |    0 | 99%  |   29 | 0.19.11               |
+| [Lemmy Fan](https://lemmy.fan) (lemmy.fan)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    8 |    0 | ??   |    5 | 0.19.13               |
+| [Jeremias' Lemmy](https://social.jears.at) (social.jears.at)                                   | Yes  | No   | Yes   | Yes     | Yes  |       2 |    1 |    0 | ??   |   30 | 0.19.13               |
+| [Vigenere](https://lemmy.vigenere.nl) (lemmy.vigenere.nl)                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 93%  |    1 | 0.19.13               |
+| [Hacker Talks](https://hackertalks.com) (hackertalks.com)                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 99%  |   29 | 0.19.14               |
+| [MakeArmy Lemmy](https://lemmy.makearmy.io) (lemmy.makearmy.io)                                | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    0 |    0 | 99%  |    4 | 0.19.12               |
+| [BlendIT - BSD Cafe](https://blendit.bsd.cafe) (blendit.bsd.cafe)                              | Yes  | No   | Yes   | Yes     | Yes  |       2 |    0 |    0 | 100% |   25 | 0.19.3                |
+| [Baraza](https://baraza.africa) (baraza.africa)                                                | Yes  | Yes  | No    | Yes     | Yes  |       2 |    0 |    0 | ??   |   61 | 0.19.14               |
+| [Beru Co.ddit](https://lemmy.beru.co) (lemmy.beru.co)                                          | Yes  | Yes  | Yes   | Yes     | Yes  |       2 |    1 |    0 | ??   |   30 | 0.19.13-modified      |
+| [Belgae Social](https://belgae.social) (belgae.social)                                         | Yes  | Yes  | Yes   | No      | No   |       2 |    0 |    0 | ??   |    5 | 0.19.12               |
 | [Lemmy](https://lemmy.max-p.me) (lemmy.max-p.me)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   29 | 0.19.13               |
-| [Johannes!](https://lemmy.jhjacobs.nl) (lemmy.jhjacobs.nl)                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   13 | 0.19.12               |
-| [grey.fail](https://lemmy.grey.fail) (lemmy.grey.fail)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   11 | 0.19.13               |
-| [фeddit.bg](https://feddit.bg) (feddit.bg)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   14 | 0.19.12               |
-| [Mathers](https://l.mathers.fr) (l.mathers.fr)                                                 | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 97%  |   30 | 0.19.4                |
-| [ExLisper Site](https://lemmy.curiana.net) (lemmy.curiana.net)                                 | Yes  | Yes  | No    | Yes     | No   |       1 |    0 |    0 | 99%  |    9 | 0.19.12               |
-| [Jellie Frontier](https://lemmy.jelliefrontier.net) (lemmy.jelliefrontier.net)                 | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 89%  |   12 | 0.19.13               |
-| [SeattleLunarSociety](https://seattlelunarsociety.org) (seattlelunarsociety.org)               | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.4                |
-| [GGG Federation](https://social.ggbox.fr) (social.ggbox.fr)                                    | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   30 | 0.19.13               |
-| [Jaypg](https://lemmy.jaypg.pw) (lemmy.jaypg.pw)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   26 | 0.19.14               |
-| [Moo Party](https://lemmy.moocloud.party) (lemmy.moocloud.party)                               | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   18 | 0.19.14               |
-| [/dev/sw0](https://l.sw0.com) (l.sw0.com)                                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   29 | 0.19.13               |
-| [SWG Empire](https://swg-empire.de) (swg-empire.de)                                            | Yes  | No   | Yes   | Yes     | Yes  |       1 |    1 |    0 | 99%  |   29 | 0.19.14               |
-| [Civilloquy](https://civilloquy.com) (civilloquy.com)                                          | Yes  | No   | No    | No      | Yes  |       1 |    7 |    1 | ??   |   30 | 0.19.5                |
-| [Under the Jacaranda](https://lemmy.jacaranda.club) (lemmy.jacaranda.club)                     | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 97%  |   30 | 0.19.12               |
-| [Lemmy MichaelSasser](https://lemmy.michaelsasser.org) (lemmy.michaelsasser.org)               | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   22 | 0.19.14               |
-| [moonboot labs social](https://lemmy.mbl.social) (lemmy.mbl.social)                            | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    2 |    0 | 99%  |   30 | 0.19.14               |
-| [lemmy.grys.it](https://lemmy.grys.it)                                                         | Yes  | Yes  | No    | Yes     | Yes  |       1 |    0 |    0 | ??   |   29 | 0.19.12               |
-| [Linz Lemmy](https://linz.city) (linz.city)                                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   29 | 0.19.9                |
-| [info.prou.be](https://info.prou.be)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 98%  |   46 | 0.19.2                |
-| [lemmy.963.pm](https://lemmy.963.pm)                                                           | Yes  | No   | Yes   | Yes     | No   |       1 |    0 |    0 | ??   |    2 | 0.19.13               |
-| [My Lemmy Instance](https://lemmy.noellesporn.de) (lemmy.noellesporn.de)                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | 100% |   22 | 0.19.4                |
-| [McHome Lemmy](https://l.mchome.net) (l.mchome.net)                                            | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 98%  |   30 | 0.19.13               |
-| [Lupiverse](https://lemmy.lupiverse.com) (lemmy.lupiverse.com)                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |    5 | 0.19.5                |
-| [Pos005 Lemmy](https://lemmy.pos005.com) (lemmy.pos005.com)                                    | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    9 | 0.19.13               |
-| [lsmu](https://lsmu.schmurian.xyz) (lsmu.schmurian.xyz)                                        | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    5 | 0.19.11               |
-| [fedit.pl](https://fedit.pl)                                                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   22 | 0.19.12               |
-| [Morbier.foo](https://morbier.foo)                                                             | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    0 | 0.19.14               |
-| [Slevin.Horse](https://slevin.horse)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    2 | 0.19.13               |
-| [0xDEADCADE's Lemmy](https://lemmy.deadca.de) (lemmy.deadca.de)                                | Yes  | No   | Yes   | Yes     | Yes  |       1 |    2 |    0 | ??   |   30 | 0.19.13               |
-| [PFM](https://lemmy.powerforme.fun) (lemmy.powerforme.fun)                                     | Yes  | Yes  | No    | Yes     | Yes  |       1 |    0 |    0 | 100% |    0 | 0.19.13               |
-| [GF4 Lemmy](https://lemmy.gf4.pw) (lemmy.gf4.pw)                                               | Yes  | Yes  | No    | Yes     | Yes  |       1 |    0 |    0 | 99%  |   11 | 0.19.8                |
-| [Welcome to X69.org](https://x69.org) (x69.org)                                                | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    5 | ??   |   29 | 0.19.13               |
-| [Upvote!](https://upvote.au) (upvote.au)                                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   30 | 0.19.13               |
-| [K-Money's Lemmy](https://lemmy.kmoneyserver.com) (lemmy.kmoneyserver.com)                     | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   29 | 0.19.13               |
-| [APS Miranda](https://discorsi.apsmiranda.it) (discorsi.apsmiranda.it)                         | Yes  | No   | Yes   | No      | Yes  |       1 |    0 |    0 | ??   |    0 | 0.19.13               |
-| [XOYNQ](https://lemmy.xoynq.com) (lemmy.xoynq.com)                                             | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   17 | 0.19.5                |
-| [Talk  Digerty.com](https://talk.digerty.com) (talk.digerty.com)                               | Yes  | No   | Yes   | No      | Yes  |       1 |    0 |    0 | ??   |    8 | 0.19.11               |
+| [Deedium Fediverse](https://lemmy.deedium.nl) (lemmy.deedium.nl)                               | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   20 | 0.19.13               |
+| [sammich.es](https://sammich.es)                                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   29 | 0.19.3                |
+| [masto.community](https://lemmy.masto.community) (lemmy.masto.community)                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   29 | 0.19.12               |
+| [Digital's Lemmy](https://lemmy.digitalcharon.in) (lemmy.digitalcharon.in)                     | Yes  | No   | Yes   | Yes     | Yes  |       1 |    1 |    0 | 99%  |   29 | 0.19.13               |
+| [PopTalk](https://poptalk.scrubbles.tech) (poptalk.scrubbles.tech)                             | Yes  | No   | Yes   | No      | Yes  |       1 |   10 |    0 | 99%  |   30 | 0.19.11               |
+| [Tespia](https://lemmy.tespia.org) (lemmy.tespia.org)                                          | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 95%  |    7 | 0.19.11               |
+| [Jamesj999 Lemmy](https://lemmy.jamesj999.co.uk) (lemmy.jamesj999.co.uk)                       | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   30 | 0.19.9                |
 | [B-Fed](https://bfed.uk) (bfed.uk)                                                             | Yes  | Yes  | No    | No      | Yes  |       1 |   21 |    0 | 100% |    7 | 0.19.11               |
-| [Abolish Capital!](https://news.abolish.capital) (news.abolish.capital)                        | Yes  | Yes  | Yes   | No      | No   |       1 |   10 |    2 | 100% |    1 | 0.19.13               |
-| [Lymme](https://lymme.dynv6.net) (lymme.dynv6.net)                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 92%  |    1 | 0.19.14               |
-| [30p87.de](https://lemmy.30p87.de) (lemmy.30p87.de)                                            | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | 99%  |   18 | 0.19.13               |
-| [Sebbe's Lemmy](https://lemmy.sebbem.se) (lemmy.sebbem.se)                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 96%  |   18 | 0.19.11               |
-| [gioia://news](https://gioia.news) (gioia.news)                                                | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   29 | 0.19.14               |
+| [McHome Lemmy](https://l.mchome.net) (l.mchome.net)                                            | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 98%  |   30 | 0.19.13               |
+| [XOYNQ](https://lemmy.xoynq.com) (lemmy.xoynq.com)                                             | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   17 | 0.19.5                |
+| [Umweltschutz Links](https://natur.23.nu) (natur.23.nu)                                        | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   19 | 0.19.11               |
+| [Fedifriends Lemmy](https://lemmy.fedifriends.social) (lemmy.fedifriends.social)               | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   27 | 0.19.14               |
+| [lemmy.imagisphe.re](https://lemmy.imagisphe.re)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    2 | 99%  |   27 | 0.19.13               |
+| [Escape Tool](https://esc.ozar.dev) (esc.ozar.dev)                                             | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    2 | 0.19.13               |
+| [Uhhoh!](https://lemmy.uhhoh.com) (lemmy.uhhoh.com)                                            | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | ??   |   29 | 0.19.14               |
+| [ymous](https://ymous.au) (ymous.au)                                                           | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 86%  |    7 | 0.19.11               |
+| [fedit.pl](https://fedit.pl)                                                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   22 | 0.19.12               |
+| [TimeSink](https://timesink.p3nguin.org) (timesink.p3nguin.org)                                | Yes  | No   | Yes   | Yes     | Yes  |       1 |    2 |    0 | 100% |   16 | 0.19.13               |
+| [Uninsane](https://lemmy.uninsane.org) (lemmy.uninsane.org)                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   31 | 0.19.14               |
+| [Krab Borg](https://krabb.org) (krabb.org)                                                     | Yes  | No   | Yes   | Yes     | Yes  |       1 |   97 |    0 | ??   |   30 | 0.19.14               |
+| [Welcome to X69.org](https://x69.org) (x69.org)                                                | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    5 | ??   |   29 | 0.19.13               |
 | [Åhall](https://lemmy.ahall.se) (lemmy.ahall.se)                                               | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 97%  |   29 | 0.19.3                |
+| [Campfyre](https://campfyre.nickwebster.dev) (campfyre.nickwebster.dev)                        | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |   12 |    0 | ??   |   29 | 0.19.7                |
+| [vger.social](https://vger.social)                                                             | Yes  | No   | Yes   | Yes     | Yes  |       1 |    5 |    0 | 99%  |   20 | 0.19.11               |
+| [Sebbe's Lemmy](https://lemmy.sebbem.se) (lemmy.sebbem.se)                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 96%  |   18 | 0.19.11               |
+| [Linkage @ DS8](https://linkage.ds8.zone) (linkage.ds8.zone)                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   56 | 0.19.13               |
+| [Freewill Tiger](https://lemmy.freewilltiger.page) (lemmy.freewilltiger.page)                  | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   13 | 0.19.11               |
+| [lemmy.pierre-couy.fr](https://lemmy.pierre-couy.fr)                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.13               |
+| [Lemmy Posterdati](https://l.posterdati.it) (l.posterdati.it)                                  | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | 99%  |   12 | 0.19.13               |
+| [spgrn](https://spgrn.com) (spgrn.com)                                                         | Yes  | Yes  | Yes   | No      | Yes  |       1 |    3 |    0 | 99%  |   30 | 0.19.13               |
+| [Jaypg](https://lemmy.jaypg.pw) (lemmy.jaypg.pw)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   26 | 0.19.14               |
+| [lemmy.grys.it](https://lemmy.grys.it)                                                         | Yes  | Yes  | No    | Yes     | Yes  |       1 |    0 |    0 | ??   |   29 | 0.19.12               |
+| [Lemmy GayFR](https://links.gayfr.online) (links.gayfr.online)                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |  189 |    0 | 100% |   21 | 0.19.14               |
+| [GGG Federation](https://social.ggbox.fr) (social.ggbox.fr)                                    | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   30 | 0.19.13               |
+| [lemmy.net.au](https://lemmy.net.au)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    2 | 100% |    9 | 0.19.9                |
+| [Lemmy](https://lemmy.tobyvin.dev) (lemmy.tobyvin.dev)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.13               |
+| [Lemmy](https://lemmy.paulstevens.org) (lemmy.paulstevens.org)                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   29 | 0.19.9                |
+| [okr765](https://lemmy.okr765.com) (lemmy.okr765.com)                                          | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    2 |    0 | 100% |   21 | 0.19.9                |
+| [LemmyIs.Fun](https://lemmyis.fun)                                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   30 | 0.19.13               |
+| [From Shadows](https://lemmy.fromshado.ws) (lemmy.fromshado.ws)                                | Yes  | No   | Yes   | No      | Yes  |       1 |    2 |    0 | 99%  |   30 | 0.19.14               |
+| [bookwormstory.social](https://bookwormstory.social)                                           | Yes  | No   | Yes   | No      | Yes  |       1 |   70 |    0 | ??   |   30 | 0.19.12               |
+| [Lemmy MichaelSasser](https://lemmy.michaelsasser.org) (lemmy.michaelsasser.org)               | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   22 | 0.19.14               |
+| [Mods4Ever](https://lemmy.mods4ever.com) (lemmy.mods4ever.com)                                 | Yes  | No   | Yes   | Yes     | No   |       1 |    0 |    0 | 100% |   29 | 0.19.13               |
+| [grey.fail](https://lemmy.grey.fail) (lemmy.grey.fail)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   11 | 0.19.13               |
+| [chi~](https://mouse.chitanda.moe) (mouse.chitanda.moe)                                        | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    1 | 98%  |   12 | 0.19.7                |
+| [Johnnei's World](https://lemmy.johnnei.org) (lemmy.johnnei.org)                               | Yes  | No   | Yes   | Yes     | Yes  |       1 |    2 |    0 | ??   |   29 | 0.19.13               |
+| [Abolish Capital!](https://news.abolish.capital) (news.abolish.capital)                        | Yes  | Yes  | Yes   | No      | No   |       1 |   10 |    2 | 100% |    1 | 0.19.13               |
+| [EventFrontier](https://eventfrontier.com) (eventfrontier.com)                                 | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.8                |
+| [SWG Empire](https://swg-empire.de) (swg-empire.de)                                            | Yes  | No   | Yes   | Yes     | Yes  |       1 |    1 |    0 | 99%  |   29 | 0.19.14               |
+| [bmck.au](https://lemmy.bmck.au) (lemmy.bmck.au)                                               | Yes  | Yes  | No    | Yes     | Yes  |       1 |    0 |    0 | 100% |   29 | 0.19.6-beta.14        |
+| [unboiled.info](https://lemmy.unboiled.info) (lemmy.unboiled.info)                             | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   29 | 0.19.14               |
+| [lemmy.helios42.de](https://lemmy.helios42.de)                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   30 | 0.19.12               |
+| [Cult I Mean Group](https://lemmy.cultimean.group) (lemmy.cultimean.group)                     | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   30 | 0.19.8                |
+| [teuto](https://lemmy.teuto.icu) (lemmy.teuto.icu)                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   28 | 0.19.14               |
+| [K-Money's Lemmy](https://lemmy.kmoneyserver.com) (lemmy.kmoneyserver.com)                     | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   29 | 0.19.13               |
+| [CringeCollective](https://lemmy.cringecollective.io) (lemmy.cringecollective.io)              | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   19 | 0.19.3                |
+| [darvit](https://lemmy.darvit.nl) (lemmy.darvit.nl)                                            | Yes  | No   | Yes   | Yes     | Yes  |       1 |    2 |    0 | ??   |   29 | 0.19.11               |
+| [KokoReddit](https://lemmy.kokomo.cloud) (lemmy.kokomo.cloud)                                  | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | 99%  |   16 | 0.19.13               |
+| [tkohhh.social](https://tkohhh.social)                                                         | Yes  | No   | Yes   | Yes     | Yes  |       1 |    2 |    0 | ??   |   29 | 0.19.12               |
+| [Johannes!](https://lemmy.jhjacobs.nl) (lemmy.jhjacobs.nl)                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   13 | 0.19.12               |
+| [SSBA](https://lemmy.ssba.com) (lemmy.ssba.com)                                                | Yes  | No   | Yes   | No      | Yes  |       1 |    0 |    0 | ??   |   29 | 0.19.3                |
+| [The Wired](https://wired.bluemarch.art) (wired.bluemarch.art)                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    4 |    0 | 99%  |   30 | 0.19.14               |
+| [Wooskey Lemmy](https://lemmy.thewooskeys.com) (lemmy.thewooskeys.com)                         | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   18 | 0.19.14               |
+| [criticalbasics](https://lemmy.criticalbasics.xyz) (lemmy.criticalbasics.xyz)                  | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.13               |
+| [Dispater's PG](https://lemmy.almostadatacenter.social) (lemmy.almostadatacenter.social)       | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    0 | 0.19.14               |
+| [info.prou.be](https://info.prou.be)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 98%  |   46 | 0.19.2                |
+| [Alt Media](https://altmedia.house) (altmedia.house)                                           | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    2 | 99%  |    7 | 0.19.11               |
+| [Lemmy.InButts.LOL](https://lemmy.inbutts.lol)                                                 | Yes  | No   | Yes   | Yes     | Yes  |       1 |    1 |    1 | 100% |   29 | 0.19.12               |
+| [crocworld lemmy](https://lemmy.croc.pw) (lemmy.croc.pw)                                       | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.14               |
+| [LemmyOHIO](https://lemmyoh.io) (lemmyoh.io)                                                   | Yes  | No   | Yes   | No      | Yes  |       1 |    0 |    0 | 100% |    0 | 0.19.13               |
+| [Lemmy - RazBot](https://lemmy.razbot.xyz) (lemmy.razbot.xyz)                                  | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |   10 |    0 | 99%  |   27 | 0.19.14-beta.2        |
+| [Lemmy: Bestiverse](https://lemmy.bestiver.se) (lemmy.bestiver.se)                             | Yes  | Yes  | Yes   | No      | Yes  |       1 |    1 |    1 | 100% |   15 | 0.19.5                |
+| [lemmy by Z31TUNG](https://lemmy.davidfreina.at) (lemmy.davidfreina.at)                        | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.13               |
+| [lemmy.amxl.com](https://lemmy.amxl.com)                                                       | Yes  | No   | Yes   | Yes     | Yes  |       1 |  136 |    0 | 99%  |   31 | 0.19.14               |
+| [lemmy.eirides.net](https://lemmy.eirides.net)                                                 | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 98%  |    4 | 0.19.12               |
+| [ConorAB](https://lemmy.conorab.com) (lemmy.conorab.com)                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 97%  |   29 | 0.19.12               |
+| [ExLisper Site](https://lemmy.curiana.net) (lemmy.curiana.net)                                 | Yes  | Yes  | No    | Yes     | No   |       1 |    0 |    0 | 99%  |    9 | 0.19.12               |
+| [federate.cc](https://lemmy.federate.cc) (lemmy.federate.cc)                                   | Yes  | Yes  | Yes   | No      | Yes  |       1 |   46 |    0 | 98%  |   29 | 0.19.12               |
+| [FederateLOL](https://lemmy.federate.lol) (lemmy.federate.lol)                                 | Yes  | No   | Yes   | Yes     | Yes  |       1 |    1 |    0 | ??   |   28 | 0.19.14               |
+| [Lebowski.Social](https://lebowski.social)                                                     | Yes  | No   | Yes   | Yes     | Yes  |       1 |  121 |    0 | 100% |   29 | 0.19.13               |
+| [Crony's Dungeon](https://lemmy.cronyakatsuki.xyz) (lemmy.cronyakatsuki.xyz)                   | Yes  | No   | Yes   | Yes     | Yes  |       1 |    1 |    0 | 99%  |   24 | 0.19.13               |
+| [lemmy.fedi.zutto.fi](https://lemmy.fedi.zutto.fi)                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    3 |    0 | 100% |   18 | 0.19.14               |
+| [secnd.me](https://lemmy.secnd.me) (lemmy.secnd.me)                                            | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   30 | 0.19.14               |
+| [lemmy.asudox.dev](https://lemmy.asudox.dev)                                                   | Yes  | No   | Yes   | Yes     | Yes  |       1 |  377 |    0 | 99%  |   11 | 0.19.14               |
+| [Lemmynal Space](https://lemmynal.space) (lemmynal.space)                                      | Yes  | Yes  | No    | Yes     | Yes  |       1 |  196 |    0 | 100% |    1 | 0.19.13               |
+| [Multivers](https://lemmy.multivers.cc) (lemmy.multivers.cc)                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | 97%  |   29 | 0.19.8                |
+| [Down On The Street](https://downonthestreet.eu) (downonthestreet.eu)                          | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   10 | 0.19.8                |
+| [lidstah's lemmy](https://lemmy.lidstah.info) (lemmy.lidstah.info)                             | Yes  | Yes  | No    | Yes     | Yes  |       1 |    0 |    0 | 100% |    7 | 0.19.13               |
+| [GF4 Lemmy](https://lemmy.gf4.pw) (lemmy.gf4.pw)                                               | Yes  | Yes  | No    | Yes     | Yes  |       1 |    0 |    0 | 99%  |   11 | 0.19.8                |
+| [LQX Lemmy](https://lemmy.lqx.net) (lemmy.lqx.net)                                             | Yes  | Yes  | Yes   | No      | Yes  |       1 |    0 |    0 | 99%  |   11 | 0.19.13               |
+| [Lemmy](https://lemmy.sal.web.tr) (lemmy.sal.web.tr)                                           | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    4 | 0.19.12               |
 | [Twippedtronic](https://l.twipped.social) (l.twipped.social)                                   | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 26%  |    8 | 0.19.13               |
-| [Sappho Social](https://sappho.social) (sappho.social)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |   64 |    0 | 100% |   16 | 0.19.13               |
-| [Social](https://social.jrruethe.info) (social.jrruethe.info)                                  | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   10 | 0.19.8                |
-| [fault.su](https://fault.su)                                                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    7 | 0.19.11               |
-| [Maple.Social](https://maple.social)                                                           | Yes  | No   | No    | Yes     | Yes  |       0 |    0 |    0 | ??   |   12 | 0.19.7                |
-| [L3mmy](https://l3mmy.com) (l3mmy.com)                                                         | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.13               |
-| [Fediverse.jp: Lemmy](https://lemmy.fediverse.jp) (lemmy.fediverse.jp)                         | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    2 | ??   |   44 | 0.19.6-beta.7         |
-| [Tim's Lemmy](https://lemmy.timwaterhouse.com) (lemmy.timwaterhouse.com)                       | Yes  | No   | Yes   | No      | Yes  |       0 |    1 |    0 | ??   |   19 | 0.19.14               |
-| [tomateaux mutters.](https://lemmy.tomateaux.com) (lemmy.tomateaux.com)                        | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    6 | 0.19.11               |
-| [86thumbs](https://lemmy.86thumbs.net) (lemmy.86thumbs.net)                                    | Yes  | No   | Yes   | Yes     | Yes  |       0 |    2 |    0 | 99%  |   30 | 0.19.5                |
-| [Scam-Lemmy.me](https://lemmy.scam-mail.me) (lemmy.scam-mail.me)                               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   18 | 0.19.9                |
-| [Lemmy Obscuro](https://lemmy.obscuro.be) (lemmy.obscuro.be)                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    8 | 0.19.10               |
-| [KW Region Lemmy](https://waterloolemmy.ca) (waterloolemmy.ca)                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   10 | 0.19.10               |
-| [Helvetet](https://lemmy.helvetet.eu) (lemmy.helvetet.eu)                                      | Yes  | No   | Yes   | No      | Yes  |       0 |    1 |    0 | ??   |   27 | 0.19.14               |
-| [halubilo.social](https://halubilo.social)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    1 |    0 | 99%  |   30 | 0.19.3                |
-| [My Lemmy Oracle](https://lemmy.notmy.cloud) (lemmy.notmy.cloud)                               | Yes  | No   | Yes   | Yes     | Yes  |       0 |    1 |    0 | 97%  |   28 | 0.19.5                |
-| [lemmy.0upti.me](https://lemmy.0upti.me)                                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   13 | 0.19.14               |
-| [Cixo Electronic](https://lemmy.cixoelectronic.pl) (lemmy.cixoelectronic.pl)                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    3 | 100% |   11 | 0.19.8                |
-| [Bodli](https://bodli.mven.nl) (bodli.mven.nl)                                                 | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 98%  |    4 | 0.19.12               |
-| [Ten Forward](https://lemmy-api.ten4ward.social) (lemmy-api.ten4ward.social)                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   28 | 0.19.13               |
-| [Minecloud Lemmy](https://lemmy.minecloud.ro) (lemmy.minecloud.ro)                             | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.11               |
-| [The Garden](https://lemmy.lukeog.com) (lemmy.lukeog.com)                                      | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   30 | 0.19.4-rc.11          |
-| [rmict.nl](https://lemmy.rmict.nl) (lemmy.rmict.nl)                                            | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    4 | 0.19.13               |
-| [Hawkins Family](https://lemmy.hawkinsfamily.com.au) (lemmy.hawkinsfamily.com.au)              | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    1 | 0.19.13               |
-| [lemmy.az.social](https://lemmy.az.social)                                                     | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   29 | 0.19.13               |
-| [lemmy.wentam.net](https://lemmy.wentam.net)                                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   24 | 0.19.13               |
-| [Alien Top](https://alien.top) (alien.top)                                                     | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |   20 | 99%  |   26 | 0.19.11               |
-| [Falconry Party!](https://falconry.party) (falconry.party)                                     | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   29 | 0.19.12               |
-| [lemmy.sietch.online](https://lemmy.sietch.online)                                             | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   30 | 0.19.13               |
-| [Brdsnest Lemmy](https://lemmy.brdsnest.net) (lemmy.brdsnest.net)                              | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   30 | 0.19.5                |
-| [Lemmy on ansible](https://lemmy.baie.me) (lemmy.baie.me)                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    5 | 0.19.12               |
-| [Brandyapple](https://lemmy.brandyapple.com) (lemmy.brandyapple.com)                           | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   10 | 0.19.13               |
-| [koyu.space](https://discuss.koyu.space) (discuss.koyu.space)                                  | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 98%  |    4 | 0.19.13               |
-| [Lemmy on Kubernetes](https://lemmy.technowizardry.net) (lemmy.technowizardry.net)             | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 98%  |   10 | 0.19.12               |
-| [Gonzo.Markets](https://gonzo.markets)                                                         | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 97%  |    3 | 0.19.13               |
-| [Terrier_RG's Lemmy](https://lemmy.t-rg.ws) (lemmy.t-rg.ws)                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   28 | 0.19.14               |
-| [Lemmy of 7RG1NT](https://l.7rg1nt.moe) (l.7rg1nt.moe)                                         | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.14               |
-| [social.sour.is](https://social.sour.is)                                                       | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   30 | 0.19.3                |
-| [Return To The Land](https://lemmy.peoplever.se) (lemmy.peoplever.se)                          | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   18 | 0.19.11               |
-| [Forum.UCB](https://forum.uncomfortable.business) (forum.uncomfortable.business)               | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   18 | 0.19.13               |
-| [Piero Bosio](https://lemmy.bosio.info) (lemmy.bosio.info)                                     | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    8 | 0.19.11               |
-| [lemmy.zhukov.al](https://lemmy.zhukov.al)                                                     | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.11               |
-| [Lemmy fait ch...](https://lemmy.fait.ch) (lemmy.fait.ch)                                      | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.11               |
-| [klein.ruhr  Lemmy](https://lemmy.klein.ruhr) (lemmy.klein.ruhr)                               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 95%  |   17 | 0.19.13               |
-| [Roanoke Social](https://roanoke.social) (roanoke.social)                                      | Yes  | No   | No    | No      | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.10               |
-| [Paulo's Lemmy](https://lemmy.plaureano.nohost.me) (lemmy.plaureano.nohost.me)                 | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | ??   |   10 | 0.19.11               |
-| [The Meissner's](https://lemmy.meissners.me) (lemmy.meissners.me)                              | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    0 | 94%  |   17 | 0.19.9                |
+| [rDrama](https://rdrama.co) (rdrama.co)                                                        | Yes  | No   | Yes   | No      | Yes  |       1 |    0 |    0 | ??   |    2 | 0.19.13               |
+| [fedii.me](https://fedii.me)                                                                   | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   29 | 0.19.13               |
+| [My Lemmy Instance](https://lemmy.noellesporn.de) (lemmy.noellesporn.de)                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | 100% |   22 | 0.19.4                |
+| [SHA1](https://sha1.nl) (sha1.nl)                                                              | Yes  | No   | Yes   | Yes     | Yes  |       1 |    1 |    0 | ??   |   30 | 0.19.14               |
+| [Rent a Drunk](https://rentadrunk.org) (rentadrunk.org)                                        | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | 99%  |   27 | 0.19.14               |
+| [Tevtra](https://lemmy.tevtra.com) (lemmy.tevtra.com)                                          | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 91%  |    0 | 0.19.13               |
+| [Slevin.Horse](https://slevin.horse)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    2 | 0.19.13               |
+| [L E F L I](https://lef.li) (lef.li)                                                           | Yes  | Yes  | Yes   | No      | Yes  |       1 |    0 |    0 | 99%  |   29 | 0.19.14               |
+| [lemmyland](https://lemmyland.com) (lemmyland.com)                                             | Yes  | No   | Yes   | Yes     | Yes  |       1 |    4 |    0 | ??   |   30 | 0.19.13               |
+| [Ḹḗṃɯӳ](https://lemmy.tgxn.net) (lemmy.tgxn.net)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   26 | 0.19.12               |
+| [Mio's site](https://lemmy.mio19.uk) (lemmy.mio19.uk)                                          | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    6 | 0.19.12               |
+| [Maechlers Lemmy](https://lemmy.maechler.cloud) (lemmy.maechler.cloud)                         | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    0 | 0.19.11               |
+| [mimiclem.me](https://mimiclem.me)                                                             | Yes  | No   | Yes   | No      | Yes  |       1 |    2 |    0 | ??   |   29 | 0.19.12               |
+| [Lemmy](https://lemmy.glue.io) (lemmy.glue.io)                                                 | Yes  | No   | Yes   | Yes     | Yes  |       1 |    1 |    0 | 97%  |    6 | 0.19.13               |
+| [My Lemmy shed](https://lemmy.ugjka.net) (lemmy.ugjka.net)                                     | Yes  | No   | Yes   | Yes     | Yes  |       1 |    2 |    0 | ??   |    1 | 0.19.14               |
+| [Jellie Frontier](https://lemmy.jelliefrontier.net) (lemmy.jelliefrontier.net)                 | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 89%  |   12 | 0.19.13               |
+| [what.if.ua lemmit](https://lemmit.nyc.what.if.ua) (lemmit.nyc.what.if.ua)                     | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    2 |    0 | ??   |    1 | 0.19.14-modified      |
+| [Trippy Lemmy](https://lemmy.trippy.pizza) (lemmy.trippy.pizza)                                | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.11               |
+| [SeattleLunarSociety](https://seattlelunarsociety.org) (seattlelunarsociety.org)               | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.4                |
+| [Sky-Lemmy](https://lemmy.skyjake.fi) (lemmy.skyjake.fi)                                       | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   29 | 0.19.12               |
+| [Free as...](https://lem.free.as) (lem.free.as)                                                | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.14               |
+| [Pos005 Lemmy](https://lemmy.pos005.com) (lemmy.pos005.com)                                    | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    9 | 0.19.13               |
+| [Under the Jacaranda](https://lemmy.jacaranda.club) (lemmy.jacaranda.club)                     | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 97%  |   30 | 0.19.12               |
+| [K2PK Lemmyverse](https://lemmy.k2pk.com) (lemmy.k2pk.com)                                     | Yes  | Yes  | Yes   | No      | Yes  |       1 |    0 |    0 | ??   |    8 | 0.19.13               |
+| [moonboot labs social](https://lemmy.mbl.social) (lemmy.mbl.social)                            | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    2 |    0 | 99%  |   30 | 0.19.14               |
+| [FediTown](https://feditown.com) (feditown.com)                                                | Yes  | No   | Yes   | Yes     | Yes  |       1 |    5 |    0 | ??   |   26 | 0.19.14               |
+| [TSL_Lemmy](https://lemmy.stefanoprenna.com) (lemmy.stefanoprenna.com)                         | Yes  | No   | Yes   | Yes     | Yes  |       1 |    3 |    0 | ??   |   25 | 0.19.14               |
+| [Lemmy Balamb](https://lemmy.balamb.fr) (lemmy.balamb.fr)                                      | Yes  | No   | Yes   | No      | No   |       1 |    0 |    0 | ??   |   29 | 0.19.14               |
+| [Horwood Cloud](https://lemmy.horwood.cloud) (lemmy.horwood.cloud)                             | Yes  | Yes  | Yes   | No      | Yes  |       1 |    0 |    0 | 99%  |   28 | 0.19.14               |
+| [Spaceships Lemmy](https://lemmy.spaceships.me) (lemmy.spaceships.me)                          | Yes  | No   | Yes   | No      | Yes  |       1 |    2 |    0 | ??   |   11 | 0.19.14               |
+| [0xDEADCADE's Lemmy](https://lemmy.deadca.de) (lemmy.deadca.de)                                | Yes  | No   | Yes   | Yes     | Yes  |       1 |    2 |    0 | ??   |   30 | 0.19.13               |
+| [/dev/sw0](https://l.sw0.com) (l.sw0.com)                                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   29 | 0.19.13               |
+| [Ga toch fietsen!](https://lemmy.emphisia.nl) (lemmy.emphisia.nl)                              | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    0 | 0.19.14               |
+| [Moo Party](https://lemmy.moocloud.party) (lemmy.moocloud.party)                               | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   18 | 0.19.14               |
+| [Mathers](https://l.mathers.fr) (l.mathers.fr)                                                 | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 97%  |   30 | 0.19.4                |
+| [Lemmy](https://lemmy.hangdaan.com) (lemmy.hangdaan.com)                                       | Yes  | No   | Yes   | No      | Yes  |       1 |    0 |    0 | ??   |   10 | 0.19.14               |
+| [Lemmy](https://lemmy.cleberg.net) (lemmy.cleberg.net)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    8 | 0.19.9                |
+| [gioia://news](https://gioia.news) (gioia.news)                                                | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   29 | 0.19.14               |
+| [Tom's Lemmy](https://lemmy.tomkoreny.com) (lemmy.tomkoreny.com)                               | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   10 | 0.19.9                |
+| [LANoftheDead](https://odin.lanofthedead.xyz) (odin.lanofthedead.xyz)                          | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    5 |    0 | ??   |   30 | 0.19.12               |
+| [ubergeek77's Lemmy](https://lemmy.ubergeek77.chat) (lemmy.ubergeek77.chat)                    | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |   11 |    0 | 99%  |   30 | 0.19.7                |
+| [Security Cafe](https://lemmy.securitycafe.ca) (lemmy.securitycafe.ca)                         | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |    9 | 0.19.14               |
+| [NerdHouse Social](https://social.nerdhouse.io) (social.nerdhouse.io)                          | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   30 | 0.19.14               |
+| [New Site](https://lemmy.14042003.xyz) (lemmy.14042003.xyz)                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    4 | 0.19.9                |
+| [quadball.app](https://quadball.app)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    4 | 0.19.13               |
+| [Rizzlers](https://lemmy.rizzlers.win) (lemmy.rizzlers.win)                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | 96%  |    1 | 0.19.13               |
+| [Linz Lemmy](https://linz.city) (linz.city)                                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   29 | 0.19.9                |
+| [Roofo](https://l.roofo.cc) (l.roofo.cc)                                                       | Yes  | No   | Yes   | Yes     | Yes  |       1 |    5 |    0 | ??   |   30 | 0.19.14               |
+| [NekuSoul-Lemmy](https://lemmy.nekusoul.de) (lemmy.nekusoul.de)                                | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   29 | 0.19.12               |
+| [lemmy.imontheweb.net](https://lemmy.imontheweb.net)                                           | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    4 | 0.19.11               |
+| [Hard Pass](https://hardpass.lol) (hardpass.lol)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |    8 | 0.19.11               |
+| [APS Miranda](https://discorsi.apsmiranda.it) (discorsi.apsmiranda.it)                         | Yes  | No   | Yes   | No      | Yes  |       1 |    0 |    0 | ??   |    0 | 0.19.13               |
+| [Altgag](https://altgag.net) (altgag.net)                                                      | Yes  | No   | No    | Yes     | Yes  |       1 |    0 |    1 | 100% |    8 | 0.19.10               |
+| [Cyberia](https://cyberia.hydrar.de) (cyberia.hydrar.de)                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    7 | 0.19.12               |
+| [Discover](https://discover.deltanauten.de) (discover.deltanauten.de)                          | Yes  | Yes  | Yes   | Yes     | No   |       1 |    0 |    0 | ??   |   28 | 0.19.12               |
+| [lemmy.keniir.wtf](https://lemmy.keniir.wtf)                                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    8 | 0.19.10               |
+| [the lemmy.monster](https://lemmy.monster) (lemmy.monster)                                     | Yes  | No   | Yes   | Yes     | Yes  |       1 |   11 |    0 | 98%  |   30 | 0.19.11               |
+| [lemmy](https://lemmy.self-hosted.site) (lemmy.self-hosted.site)                               | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.13               |
+| [lemmy.onlylans.io](https://lemmy.onlylans.io)                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    2 |    0 | 97%  |   30 | 0.19.8                |
+| [lemmy.963.pm](https://lemmy.963.pm)                                                           | Yes  | No   | Yes   | Yes     | No   |       1 |    0 |    0 | ??   |    2 | 0.19.13               |
+| [Bowyerhub](https://lemmy.bowyerhub.uk) (lemmy.bowyerhub.uk)                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    9 | 0.19.9                |
+| [Ibbit](https://ibbit.at) (ibbit.at)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    2 | 100% |    5 | 0.19.12               |
+| [lsmu](https://lsmu.schmurian.xyz) (lsmu.schmurian.xyz)                                        | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    5 | 0.19.11               |
+| [Talk  Digerty.com](https://talk.digerty.com) (talk.digerty.com)                               | Yes  | No   | Yes   | No      | Yes  |       1 |    0 |    0 | ??   |    8 | 0.19.11               |
+| [Lemmy](https://lemmy.caliban.io) (lemmy.caliban.io)                                           | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |   19 | 0.19.14               |
+| [Lupiverse](https://lemmy.lupiverse.com) (lemmy.lupiverse.com)                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |    5 | 0.19.5                |
+| [Lymme](https://lymme.dynv6.net) (lymme.dynv6.net)                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 92%  |    1 | 0.19.14               |
+| [lemmy.dudeami.win](https://lemmy.dudeami.win)                                                 | Yes  | Yes  | Yes   | No      | Yes  |       1 |    0 |    0 | ??   |   22 | 0.19.13               |
+| [PFM](https://lemmy.powerforme.fun) (lemmy.powerforme.fun)                                     | Yes  | Yes  | No    | Yes     | Yes  |       1 |    0 |    0 | 100% |    0 | 0.19.13               |
+| [8th World](https://lemmy.8th.world) (lemmy.8th.world)                                         | Yes  | No   | Yes   | No      | No   |       1 |    0 |    0 | 100% |   28 | 0.19.10               |
+| [   ](https://links.rocks) (links.rocks)                                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | ??   |   30 | 0.19.11               |
+| [Civilloquy](https://civilloquy.com) (civilloquy.com)                                          | Yes  | No   | No    | No      | Yes  |       1 |    7 |    1 | ??   |   30 | 0.19.5                |
+| [Personal Lemmy](https://lemmy.100010101.xyz) (lemmy.100010101.xyz)                            | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    3 |    0 | 100% |   28 | 0.19.13               |
+| [idlestate](https://news.idlestate.org) (news.idlestate.org)                                   | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 99%  |   30 | 0.19.14               |
+| [Lemmy](https://lemmy.blackeco.com) (lemmy.blackeco.com)                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | ??   |   29 | 0.19.14               |
+| [Beagle Quest](https://lemmy.beagle.quest) (lemmy.beagle.quest)                                | Yes  | Yes  | Yes   | No      | Yes  |       1 |    0 |    0 | ??   |   21 | 0.19.13               |
+| [foros.fediverso.gal](https://foros.fediverso.gal)                                             | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 98%  |   36 | 0.19.3                |
+| [tta.wtf](https://l.tta.wtf) (l.tta.wtf)                                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | ??   |   29 | 0.19.13               |
+| [Upvote!](https://upvote.au) (upvote.au)                                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   30 | 0.19.13               |
+| [Morbier.foo](https://morbier.foo)                                                             | Yes  | No   | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    0 | 0.19.14               |
+| [MRM](https://lemmy.mrm.one) (lemmy.mrm.one)                                                   | Yes  | No   | Yes   | Yes     | Yes  |       1 |   39 |    0 | 99%  |   30 | 0.19.14               |
+| [Campground](https://lemmy.aicampground.com) (lemmy.aicampground.com)                          | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 95%  |   10 | 0.19.13               |
+| [StuartLemmy](https://lemmy.stuart.fun) (lemmy.stuart.fun)                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    9 | 0.19.13               |
+| [Lemmy](https://lemmy.civl.cc) (lemmy.civl.cc)                                                 | Yes  | Yes  | Yes   | No      | Yes  |       1 |    0 |    0 | 100% |    0 | 0.19.14               |
+| [30p87.de](https://lemmy.30p87.de) (lemmy.30p87.de)                                            | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    1 |    0 | 99%  |   18 | 0.19.13               |
+| [Far Harbor](https://lemmy.bklrzn.me) (lemmy.bklrzn.me)                                        | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | 100% |    1 | 0.19.13               |
+| [Boing Lemmy](https://lm.boing.icu) (lm.boing.icu)                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |    7 | 0.19.14               |
+| [фeddit.bg](https://feddit.bg) (feddit.bg)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       1 |    0 |    0 | ??   |   14 | 0.19.12               |
+| [ProIT](https://proit.org) (proit.org)                                                         | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   30 | 0.19.11               |
+| [九尾論壇](https://bbs.9tail.net) (bbs.9tail.net)                                                  | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    1 |    8 | ??   |   34 | 0.19.3                |
+| [lem.afiz.org](https://lem.afiz.org)                                                           | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   12 | 0.19.8                |
+| [lm.preferlinux.de](https://lm.preferlinux.de)                                                 | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    0 | 100% |    8 | 0.19.13               |
+| [ShinyLemmy](https://lemmy.shiny-task.com) (lemmy.shiny-task.com)                              | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   29 | 0.19.12               |
 | [Tech Tailors](https://lemmy.techtailors.net) (lemmy.techtailors.net)                          | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   28 | 0.19.13               |
-| [fjdk](https://fjdk.uk) (fjdk.uk)                                                              | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 98%  |   30 | 0.19.12               |
-| [lemmy.glasgow.social](https://lemmy.glasgow.social)                                           | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    4 | 94%  |   30 | 0.19.3                |
-| [sLemmy](https://lemmy.sumuun.net) (lemmy.sumuun.net)                                          | Yes  | No   | Yes   | Yes     | Yes  |       0 |    1 |    1 | 99%  |   30 | 0.19.13               |
-| [GeekRoom.Tech](https://geekroom.tech)                                                         | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |    9 | 0.19.11               |
-| [Orbi Camp](https://orbi.camp) (orbi.camp)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   11 | 0.19.8                |
-| [Lemmy@LuSj](https://lemmy.lundgrensjostrom.com) (lemmy.lundgrensjostrom.com)                  | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 94%  |   20 | 0.19.13               |
-| [Lemmit](https://lemmit.online) (lemmit.online)                                                | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |   21 | 97%  |   30 | 0.19.11               |
 | [HackingNe.ws](https://hackingne.ws)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    1 |    0 | ??   |    9 | 0.19.13               |
-| [The Stormux Lemmy](https://communities.stormux.org) (communities.stormux.org)                 | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   11 | 0.19.9                |
-| [Lemmy.HybridSarcasm](https://lemmy.hybridsarcasm.xyz) (lemmy.hybridsarcasm.xyz)               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   26 | 0.19.7                |
-| [Friends of JLH](https://lemmy.jlh.name) (lemmy.jlh.name)                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    1 |    0 | 95%  |   30 | 0.19.12               |
+| [lemmy.kfed.org](https://lemmy.kfed.org)                                                       | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   20 | 0.19.13               |
+| [Fabio's Lemmy](https://lemmy.manganiello.tech) (lemmy.manganiello.tech)                       | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    8 | 0.19.13               |
+| [Lemmy](https://lemmy.waynetec.us) (lemmy.waynetec.us)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 98%  |   28 | 0.19.12               |
+| [koyu.space](https://discuss.koyu.space) (discuss.koyu.space)                                  | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 98%  |    4 | 0.19.13               |
+| [Forum.UCB](https://forum.uncomfortable.business) (forum.uncomfortable.business)               | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   18 | 0.19.13               |
 | [Lemmy Coupou.fr](https://lemmy.coupou.fr) (lemmy.coupou.fr)                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   49 | 0.19.14               |
 | [Reddeet](https://reddeet.com) (reddeet.com)                                                   | Yes  | No   | Yes   | Yes     | Yes  |       0 |   10 |    0 | ??   |   24 | 0.19.13               |
-| [Marius’s Lemmy](https://lemmy.mariusdavid.fr) (lemmy.mariusdavid.fr)                          | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   30 | 0.19.13               |
-| [Jacen Lemmy](https://discuss.jacen.moe) (discuss.jacen.moe)                                   | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    1 | 100% |   30 | 0.19.14               |
-| [PIT.NINJA](https://lemmy.pit.ninja) (lemmy.pit.ninja)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 94%  |   19 | 0.19.3                |
-| [unreachable.cloud](https://unreachable.cloud)                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   26 | 0.19.5                |
-| [Orbiting Observer](https://orbiting.observer) (orbiting.observer)                             | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    6 |    0 | 99%  |   28 | 0.19.13               |
-| [mebitek](https://lemmy.mebitek.com) (lemmy.mebitek.com)                                       | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   21 | 0.19.3                |
-| [Doomscroll](https://doomscroll.n8e.dev) (doomscroll.n8e.dev)                                  | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   25 | 0.19.13               |
-| [Aethelgard Community](https://discuss.aethelgard.space) (discuss.aethelgard.space)            | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    1 | 0.19.13               |
-| [Lemmy](https://lemmy.korz.dev) (lemmy.korz.dev)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   27 | 0.19.13               |
-| [Prommy](https://lemmy.projetretro.io) (lemmy.projetretro.io)                                  | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    2 | 0.19.13               |
-| [Nerdland](https://lemmy.nerdland.xyz) (lemmy.nerdland.xyz)                                    | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    1 | 0.19.13               |
-| [Dullsters.net](https://dullsters.net)                                                         | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   10 | 0.19.9                |
-| [a.s dev](https://making.awful.systems) (making.awful.systems)                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   29 | 0.19.12               |
-| [Zeg het eens](https://zegheteens.nl) (zegheteens.nl)                                          | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 98%  |    3 | 0.19.11               |
-| [whemic.xyz](https://whemic.xyz)                                                               | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.11               |
-| [sador.me Lemmy](https://lemmy.sador.me) (lemmy.sador.me)                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    2 |    0 | 98%  |    5 | 0.19.14               |
-| [zImage](https://lemmy.zimage.com) (lemmy.zimage.com)                                          | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   28 | 0.19.12               |
-| [Lemmini.fi](https://lemmini.fi)                                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    9 | 0.19.13               |
-| [Lemmy@em](https://lemmy.installation00.org) (lemmy.installation00.org)                        | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   21 | 0.19.9                |
-| [lemmy.exory.dev](https://lemmy.exory.dev)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    4 | 0.19.12               |
-| [Suicide Server Lemmy](https://lemmy.suicideserver.net) (lemmy.suicideserver.net)              | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |  167 |    0 | ??   |    4 | 0.19.12               |
-| [Rabotaem!](https://api-dev.rabotaem.app) (api-dev.rabotaem.app)                               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    1 | ??   |    6 | 0.19.10               |
-| [Lemmy](https://lemmy.laitinlok.com) (lemmy.laitinlok.com)                                     | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    3 | ??   |   11 | 0.19.13               |
-| [lemmy.skoops.social](https://lemmy.skoops.social)                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   21 | 0.19.13               |
-| [style.land](https://style.land)                                                               | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 99%  |   26 | 0.19.11               |
-| [lemmy.cryonex.net](https://lemmy.cryonex.net)                                                 | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   15 | 0.19.11               |
-| [Lemmy Thick](https://kbin.thicknahalf.com) (kbin.thicknahalf.com)                             | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   23 | 0.19.14               |
-| [NFL](https://nfl.community) (nfl.community)                                                   | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 98%  |   26 | 0.19.11               |
-| [wolf3d.space](https://wolf3d.space)                                                           | Yes  | No   | Yes   | No      | No   |       0 |    1 |    0 | 100% |    9 | 0.19.9                |
-| [Eldritch Mlems](https://mlem.eldritch.gift) (mlem.eldritch.gift)                              | Yes  | No   | Yes   | Yes     | Yes  |       0 |   10 |    0 | 99%  |   24 | 0.19.12               |
-| [Fabio's Lemmy](https://lemmy.manganiello.tech) (lemmy.manganiello.tech)                       | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    8 | 0.19.13               |
-| [lm.preferlinux.de](https://lm.preferlinux.de)                                                 | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    0 | 100% |    8 | 0.19.13               |
-| [lem.afiz.org](https://lem.afiz.org)                                                           | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   12 | 0.19.8                |
-| [ShinyLemmy](https://lemmy.shiny-task.com) (lemmy.shiny-task.com)                              | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   29 | 0.19.12               |
-| [borgchat](https://borg.chat) (borg.chat)                                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    2 |    0 | 98%  |   29 | 0.19.3                |
-| [Sergey's Lemmy](https://lem.serkozh.me) (lem.serkozh.me)                                      | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   30 | 0.19.14               |
-| [Lemmy](https://lemmy.waynetec.us) (lemmy.waynetec.us)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 98%  |   28 | 0.19.12               |
-| [kuuhana](https://kuu.kohana.fi) (kuu.kohana.fi)                                               | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   29 | 0.19.3                |
 | [Science Social](https://lemmy.science.social) (lemmy.science.social)                          | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    7 | 0.19.11               |
+| [Cixo Electronic](https://lemmy.cixoelectronic.pl) (lemmy.cixoelectronic.pl)                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    3 | 100% |   11 | 0.19.8                |
+| [lemmy.skoops.social](https://lemmy.skoops.social)                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   21 | 0.19.13               |
 | [kitty.ly](https://kitty.ly)                                                                   | Yes  | No   | Yes   | No      | No   |       0 |    0 |    0 | ??   |   10 | 0.19.14               |
-| [lm.inu.is](https://lm.inu.is)                                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   30 | 0.19.11               |
+| [Bodli](https://bodli.mven.nl) (bodli.mven.nl)                                                 | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 98%  |    4 | 0.19.12               |
+| [lemmy.snoot.tube](https://lemmy.snoot.tube)                                                   | Yes  | Yes  | Yes   | Yes     | No   |       0 |    0 |    0 | ??   |   30 | 0.19.8                |
+| [Scam-Lemmy.me](https://lemmy.scam-mail.me) (lemmy.scam-mail.me)                               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   18 | 0.19.9                |
+| [Lemmy](https://lemmy.belegost.net) (lemmy.belegost.net)                                       | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 98%  |    3 | 0.19.13               |
+| [uSuck.fyi](https://lemmy.usuck.fyi) (lemmy.usuck.fyi)                                         | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    0 | ??   |    2 | 0.19.13               |
+| [Brdsnest Lemmy](https://lemmy.brdsnest.net) (lemmy.brdsnest.net)                              | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   30 | 0.19.5                |
+| [rmict.nl](https://lemmy.rmict.nl) (lemmy.rmict.nl)                                            | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    4 | 0.19.13               |
 | [High Fidelity](https://hi-fi.community) (hi-fi.community)                                     | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | ??   |   26 | 0.19.11               |
 | [Lemmy  Lama Corp.](https://lemmy.lama-corp.space) (lemmy.lama-corp.space)                     | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |    9 | 0.19.14               |
-| [ShowEQ Lemmy](https://showeq.com) (showeq.com)                                                | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   26 | 0.19.5                |
-| [happysl.app](https://happysl.app)                                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 98%  |   29 | 0.19.14               |
-| [50501](https://lemmy.fiftyfifty.one) (lemmy.fiftyfifty.one)                                   | Yes  | No   | No    | No      | Yes  |       0 |    0 |    0 | 100% |    9 | 0.19.9                |
-| [SFW Network](https://sfw.community) (sfw.community)                                           | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    1 | 99%  |   24 | 0.19.11               |
-| [Amethyst Lemmy](https://lemmy.amethyst.name) (lemmy.amethyst.name)                            | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   11 | 0.19.12               |
-| [lemmy.xev](https://lemmy.xeviousx.eu) (lemmy.xeviousx.eu)                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   10 | 0.19.8                |
-| [Lemmy](https://lemmy.services.coupou.fr) (lemmy.services.coupou.fr)                           | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    8 | 99%  |   49 | 0.19.14               |
-| [Norbi's Lemmy](https://lemmy.norbipeti.eu) (lemmy.norbipeti.eu)                               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   19 | 0.19.11               |
-| [lemmy.snoot.tube](https://lemmy.snoot.tube)                                                   | Yes  | Yes  | Yes   | Yes     | No   |       0 |    0 |    0 | ??   |   30 | 0.19.8                |
-| [Lan Tian @ Lemmy](https://lemmy.lantian.pub) (lemmy.lantian.pub)                              | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    1 |    0 | 100% |   29 | 0.19.14               |
-| [Nadia's links](https://links.nadia.moe) (links.nadia.moe)                                     | Yes  | No   | Yes   | No      | No   |       0 |    0 |    0 | 100% |   43 | 0.19.14               |
-| [KittiesAreCute!](https://ascy.mooo.com) (ascy.mooo.com)                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    1 | ??   |   30 | 0.19.14               |
-| [Phusmugugs](https://lemmy.runesmite.com) (lemmy.runesmite.com)                                | Yes  | No   | Yes   | No      | Yes  |       0 |    1 |    0 | 99%  |   16 | 0.19.11               |
-| [MetaCritics](https://metacritics.zone) (metacritics.zone)                                     | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 98%  |   26 | 0.19.11               |
-| [ctrlq](https://lemmy.ctrlq.dev) (lemmy.ctrlq.dev)                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    8 | 0.19.10               |
-| [ok then](https://okaythen.lol) (okaythen.lol)                                                 | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 87%  |    6 | 0.19.11               |
-| [MistyReverie Lemmy](https://lemmy.mistyreverie.org) (lemmy.mistyreverie.org)                  | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    5 | 0.19.14               |
-| [social@p80.se](https://social.p80.se) (social.p80.se)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   15 | 0.19.9                |
-| [news.sathani.com](https://news.sathani.com)                                                   | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    2 | 0.19.13               |
-| [dev.lemmy.world](https://dev.lemmy.world)                                                     | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    0 | 96%  |   24 | 0.19.12-4-gd8445881a  |
-| [Konrad's Lemmy](https://lemmy.dryja.dev) (lemmy.dryja.dev)                                    | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    9 | 0.19.14               |
-| [Lemmy.Chigityk](https://lemmy.chigityk.com) (lemmy.chigityk.com)                              | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    6 | 0.19.11               |
-| [haley.io](https://lemmy.haley.io) (lemmy.haley.io)                                            | Yes  | Yes  | Yes   | No      | Yes  |       0 |    5 |    0 | ??   |   16 | 0.19.5                |
-| [lemmy rldn](https://lemmy.rldn.net) (lemmy.rldn.net)                                          | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   15 | 0.19.11               |
-| [Martin's lemmy](https://martinlm.mypi.co) (martinlm.mypi.co)                                  | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    9 | 0.19.12-modified      |
-| [Lululemmy](https://lululemmy.com) (lululemmy.com)                                             | Yes  | Yes  | Yes   | Yes     | No   |       0 |    0 |    6 | 98%  |   30 | 0.19.11               |
-| [Academy Garden](https://academy.garden) (academy.garden)                                      | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 99%  |   25 | 0.19.11               |
-| [enticedwanderer.com](https://lemmy.enticedwanderer.com) (lemmy.enticedwanderer.com)           | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   12 | 0.19.13               |
-| [Lemmy Killtime](https://lemmy.killtime.online) (lemmy.killtime.online)                        | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   28 | 0.19.3                |
+| [mebitek](https://lemmy.mebitek.com) (lemmy.mebitek.com)                                       | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   21 | 0.19.3                |
+| [GeekRoom.Tech](https://geekroom.tech)                                                         | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |    9 | 0.19.11               |
 | [Mats.ooo Lemmy](https://lemmy.mats.ooo) (lemmy.mats.ooo)                                      | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   12 | 0.19.13               |
-| [Lemmy-B](https://lemmy.jimmy-b.se) (lemmy.jimmy-b.se)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    0 | 0.19.13               |
-| [Gearhead Town](https://gearhead.town) (gearhead.town)                                         | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   25 | 0.19.11               |
-| [lemmy.411426](https://lemmy.411426.xyz) (lemmy.411426.xyz)                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    8 | 0.19.13               |
-| [lemmy.kfed.org](https://lemmy.kfed.org)                                                       | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   20 | 0.19.13               |
-| [Viewfinder Pro](https://viewfinder.pro) (viewfinder.pro)                                      | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   26 | 0.19.11               |
 | [selfhosted](https://selfhosted.forum) (selfhosted.forum)                                      | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   30 | 0.19.11               |
-| [Edikoyo Hub](https://hub.edikoyo.com) (hub.edikoyo.com)                                       | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 97%  |   16 | 0.19.5                |
-| [Level Up!](https://level-up.zone) (level-up.zone)                                             | Yes  | No   | Yes   | No      | No   |       0 |    0 |    0 | 97%  |   21 | 0.19.11               |
-| [LoopBoard](https://lemmy.perfecthluxury.store) (lemmy.perfecthluxury.store)                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    1 | 0.19.13               |
-| [Lemmy@Moonling.nl](https://lemmy.moonling.nl) (lemmy.moonling.nl)                             | Yes  | No   | Yes   | Yes     | Yes  |       0 |    4 |    0 | 99%  |   30 | 0.19.3                |
+| [Lemmy fait ch...](https://lemmy.fait.ch) (lemmy.fait.ch)                                      | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.11               |
+| [Paulo's Lemmy](https://lemmy.plaureano.nohost.me) (lemmy.plaureano.nohost.me)                 | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | ??   |   10 | 0.19.11               |
+| [Alien Top](https://alien.top) (alien.top)                                                     | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |   21 | 99%  |   26 | 0.19.11               |
+| [Ten Forward](https://lemmy-api.ten4ward.social) (lemmy-api.ten4ward.social)                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   28 | 0.19.13               |
+| [The Meissner's](https://lemmy.meissners.me) (lemmy.meissners.me)                              | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    0 | 94%  |   17 | 0.19.9                |
+| [Falconry Party!](https://falconry.party) (falconry.party)                                     | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   29 | 0.19.12               |
+| [lemmy.zhukov.al](https://lemmy.zhukov.al)                                                     | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.11               |
+| [Lemmy Obscuro](https://lemmy.obscuro.be) (lemmy.obscuro.be)                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    8 | 0.19.10               |
+| [social.sour.is](https://social.sour.is)                                                       | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   30 | 0.19.3                |
+| [Sappho Social](https://sappho.social) (sappho.social)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |   64 |    0 | 100% |   16 | 0.19.13               |
+| [haley.io](https://lemmy.haley.io) (lemmy.haley.io)                                            | Yes  | Yes  | Yes   | No      | Yes  |       0 |    5 |    0 | ??   |   16 | 0.19.5                |
+| [lemmy.cryonex.net](https://lemmy.cryonex.net)                                                 | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   15 | 0.19.11               |
+| [50501](https://lemmy.fiftyfifty.one) (lemmy.fiftyfifty.one)                                   | Yes  | No   | No    | No      | Yes  |       0 |    0 |    0 | 100% |    9 | 0.19.9                |
+| [ShowEQ Lemmy](https://showeq.com) (showeq.com)                                                | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   26 | 0.19.5                |
+| [Zeg het eens](https://zegheteens.nl) (zegheteens.nl)                                          | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 98%  |    3 | 0.19.11               |
+| [Trash Brain](https://lem.trashbrain.org) (lem.trashbrain.org)                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   29 | 0.19.11               |
+| [My Lemny](https://lemmy.zwanenburg.info) (lemmy.zwanenburg.info)                              | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   29 | 0.19.14               |
+| [Lemmy wivodaim .ch](https://lemmy.wivodaim.ch) (lemmy.wivodaim.ch)                            | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    0 | 91%  |    3 | 0.19.11               |
+| [Prommy](https://lemmy.projetretro.io) (lemmy.projetretro.io)                                  | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    2 | 0.19.13               |
+| [tomateaux mutters.](https://lemmy.tomateaux.com) (lemmy.tomateaux.com)                        | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    6 | 0.19.11               |
+| [Lemmy Thick](https://kbin.thicknahalf.com) (kbin.thicknahalf.com)                             | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   23 | 0.19.14               |
+| [NFL](https://nfl.community) (nfl.community)                                                   | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 98%  |   26 | 0.19.11               |
+| [Brandyapple](https://lemmy.brandyapple.com) (lemmy.brandyapple.com)                           | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   10 | 0.19.13               |
+| [L3mmy](https://l3mmy.com) (l3mmy.com)                                                         | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.13               |
+| [lemmy.wentam.net](https://lemmy.wentam.net)                                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   24 | 0.19.13               |
+| [Rhymelikedime](https://lemmy.rhymelikedi.me) (lemmy.rhymelikedi.me)                           | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   30 | 0.19.12               |
+| [Jacen Lemmy](https://discuss.jacen.moe) (discuss.jacen.moe)                                   | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    1 | 100% |   30 | 0.19.14               |
+| [Lemmy-B](https://lemmy.jimmy-b.se) (lemmy.jimmy-b.se)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    0 | 0.19.13               |
+| [Return To The Land](https://lemmy.peoplever.se) (lemmy.peoplever.se)                          | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   18 | 0.19.11               |
+| [PIT.NINJA](https://lemmy.pit.ninja) (lemmy.pit.ninja)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   19 | 0.19.3                |
+| [SFW Network](https://sfw.community) (sfw.community)                                           | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    1 | 99%  |   24 | 0.19.11               |
+| [Lemmy.HybridSarcasm](https://lemmy.hybridsarcasm.xyz) (lemmy.hybridsarcasm.xyz)               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   26 | 0.19.7                |
+| [lemmy.glasgow.social](https://lemmy.glasgow.social)                                           | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    4 | 94%  |   30 | 0.19.3                |
+| [unreachable.cloud](https://unreachable.cloud)                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   26 | 0.19.5                |
+| [halubilo.social](https://halubilo.social)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    1 |    0 | 99%  |   30 | 0.19.3                |
+| [Terrier_RG's Lemmy](https://lemmy.t-rg.ws) (lemmy.t-rg.ws)                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   28 | 0.19.14               |
+| [fault.su](https://fault.su)                                                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    7 | 0.19.11               |
+| [fjdk](https://fjdk.uk) (fjdk.uk)                                                              | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 98%  |   30 | 0.19.12               |
+| [lemmy.az.social](https://lemmy.az.social)                                                     | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   29 | 0.19.13               |
+| [Amethyst Lemmy](https://lemmy.amethyst.name) (lemmy.amethyst.name)                            | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   11 | 0.19.12               |
+| [G00N.BBS](https://g00n.cloud) (g00n.cloud)                                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 98%  |   11 | 0.19.13               |
+| [w9r.de](https://lemmy.w9r.de) (lemmy.w9r.de)                                                  | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   30 | 0.19.13               |
+| [klein.ruhr  Lemmy](https://lemmy.klein.ruhr) (lemmy.klein.ruhr)                               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 95%  |   17 | 0.19.13               |
+| [Digital Distress](https://distress.digital) (distress.digital)                                | Yes  | Yes  | Yes   | No      | Yes  |       0 |    7 |    0 | ??   |   30 | 0.19.10               |
+| [Eldritch Mlems](https://mlem.eldritch.gift) (mlem.eldritch.gift)                              | Yes  | No   | Yes   | Yes     | Yes  |       0 |   10 |    0 | 99%  |   24 | 0.19.12               |
+| [sLemmy](https://lemmy.sumuun.net) (lemmy.sumuun.net)                                          | Yes  | No   | Yes   | Yes     | Yes  |       0 |    1 |    1 | ??   |   30 | 0.19.13               |
+| [Lemmy](https://discuss.icewind.me) (discuss.icewind.me)                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   30 | 0.19.13               |
+| [UKFLI](https://ukfli.uk) (ukfli.uk)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |   64 |    0 | 99%  |   23 | 0.19.13               |
+| [kuuhana](https://kuu.kohana.fi) (kuu.kohana.fi)                                               | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   29 | 0.19.3                |
+| [Lemmy](https://lemmy.services.coupou.fr) (lemmy.services.coupou.fr)                           | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    8 | 99%  |   49 | 0.19.14               |
+| [Lemmy@em](https://lemmy.installation00.org) (lemmy.installation00.org)                        | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   21 | 0.19.9                |
+| [Norbi's Lemmy](https://lemmy.norbipeti.eu) (lemmy.norbipeti.eu)                               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   19 | 0.19.11               |
+| [Lemmy](https://lemmy.laitinlok.com) (lemmy.laitinlok.com)                                     | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    3 | ??   |   11 | 0.19.13               |
+| [Doomscroll](https://doomscroll.n8e.dev) (doomscroll.n8e.dev)                                  | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   25 | 0.19.13               |
+| [Lan Tian @ Lemmy](https://lemmy.lantian.pub) (lemmy.lantian.pub)                              | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    1 |    0 | 100% |   29 | 0.19.14               |
+| [Tim's Lemmy](https://lemmy.timwaterhouse.com) (lemmy.timwaterhouse.com)                       | Yes  | No   | Yes   | No      | Yes  |       0 |    1 |    0 | ??   |   19 | 0.19.14               |
+| [rochegmr](https://lemmy.rochegmr.com) (lemmy.rochegmr.com)                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   19 | 0.19.13               |
+| [Piero Bosio](https://lemmy.bosio.info) (lemmy.bosio.info)                                     | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    8 | 0.19.11               |
+| [Lemmy Killtime](https://lemmy.killtime.online) (lemmy.killtime.online)                        | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   28 | 0.19.3                |
+| [KW Region Lemmy](https://waterloolemmy.ca) (waterloolemmy.ca)                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   10 | 0.19.10               |
+| [lemmy.xev](https://lemmy.xeviousx.eu) (lemmy.xeviousx.eu)                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   10 | 0.19.8                |
+| [Friends of JLH](https://lemmy.jlh.name) (lemmy.jlh.name)                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    1 |    0 | 95%  |   30 | 0.19.12               |
+| [Rabotaem!](https://api-dev.rabotaem.app) (api-dev.rabotaem.app)                               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    1 | ??   |    6 | 0.19.10               |
+| [borgchat](https://borg.chat) (borg.chat)                                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    2 |    0 | 98%  |   29 | 0.19.3                |
+| [Hardware Watch](https://hardware.watch) (hardware.watch)                                      | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 99%  |   25 | 0.19.11               |
+| [Nerdland](https://lemmy.nerdland.xyz) (lemmy.nerdland.xyz)                                    | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    1 | 0.19.13               |
+| [lemmy.0upti.me](https://lemmy.0upti.me)                                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   13 | 0.19.14               |
+| [Social](https://social.jrruethe.info) (social.jrruethe.info)                                  | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   10 | 0.19.8                |
+| [86thumbs](https://lemmy.86thumbs.net) (lemmy.86thumbs.net)                                    | Yes  | No   | Yes   | Yes     | Yes  |       0 |    2 |    0 | 99%  |   30 | 0.19.5                |
+| [Nadia's links](https://links.nadia.moe) (links.nadia.moe)                                     | Yes  | No   | Yes   | No      | No   |       0 |    0 |    0 | 100% |   43 | 0.19.14               |
+| [lemmy.8bitar.io](https://lemmy.8bitar.io)                                                     | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | ??   |   24 | 0.19.9                |
+| [minigubben's lemmy](https://lemmy.minigubben.se) (lemmy.minigubben.se)                        | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.12               |
+| [The Stormux Lemmy](https://communities.stormux.org) (communities.stormux.org)                 | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   11 | 0.19.9                |
+| [happysl.app](https://happysl.app)                                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 98%  |   29 | 0.19.14               |
+| [MetaCritics](https://metacritics.zone) (metacritics.zone)                                     | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 98%  |   26 | 0.19.11               |
+| [Orbiting Observer](https://orbiting.observer) (orbiting.observer)                             | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    6 |    0 | 99%  |   28 | 0.19.13               |
+| [Suicide Server Lemmy](https://lemmy.suicideserver.net) (lemmy.suicideserver.net)              | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |  167 |    0 | ??   |    4 | 0.19.12               |
+| [Lemmy@LuSj](https://lemmy.lundgrensjostrom.com) (lemmy.lundgrensjostrom.com)                  | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 94%  |   20 | 0.19.13               |
+| [Soccer Forum](https://soccer.forum) (soccer.forum)                                            | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   30 | 0.19.11               |
+| [The Garden](https://lemmy.lukeog.com) (lemmy.lukeog.com)                                      | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   30 | 0.19.4-rc.11          |
+| [lemmy rldn](https://lemmy.rldn.net) (lemmy.rldn.net)                                          | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   15 | 0.19.11               |
+| [ctrlq](https://lemmy.ctrlq.dev) (lemmy.ctrlq.dev)                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    8 | 0.19.10               |
+| [Maple.Social](https://maple.social)                                                           | Yes  | No   | No    | Yes     | Yes  |       0 |    0 |    0 | ??   |   12 | 0.19.7                |
+| [Konrad's Lemmy](https://lemmy.dryja.dev) (lemmy.dryja.dev)                                    | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    9 | 0.19.14               |
+| [lemmy.exory.dev](https://lemmy.exory.dev)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    4 | 0.19.12               |
+| [Lemmit](https://lemmit.online) (lemmit.online)                                                | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |   21 | 97%  |   30 | 0.19.11               |
+| [lemmy.411426](https://lemmy.411426.xyz) (lemmy.411426.xyz)                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    8 | 0.19.13               |
+| [Orbi Camp](https://orbi.camp) (orbi.camp)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   11 | 0.19.8                |
+| [Lemmy on ansible](https://lemmy.baie.me) (lemmy.baie.me)                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    5 | 0.19.12               |
+| [Lemmini.fi](https://lemmini.fi)                                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    9 | 0.19.13               |
+| [whemic.xyz](https://whemic.xyz)                                                               | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.11               |
+| [Lemmy on Kubernetes](https://lemmy.technowizardry.net) (lemmy.technowizardry.net)             | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 98%  |   10 | 0.19.12               |
+| [MistyReverie Lemmy](https://lemmy.mistyreverie.org) (lemmy.mistyreverie.org)                  | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    5 | 0.19.14               |
+| [Lemmy.Chigityk](https://lemmy.chigityk.com) (lemmy.chigityk.com)                              | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    6 | 0.19.11               |
+| [zImage](https://lemmy.zimage.com) (lemmy.zimage.com)                                          | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   28 | 0.19.12               |
+| [ok then](https://okaythen.lol) (okaythen.lol)                                                 | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 87%  |    6 | 0.19.11               |
+| [Helvetet](https://lemmy.helvetet.eu) (lemmy.helvetet.eu)                                      | Yes  | No   | Yes   | No      | Yes  |       0 |    1 |    0 | ??   |   27 | 0.19.14               |
+| [style.land](https://style.land)                                                               | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 99%  |   26 | 0.19.11               |
+| [DIGITALFALL](https://lemmy.digitalfall.net) (lemmy.digitalfall.net)                           | Yes  | No   | Yes   | Yes     | Yes  |       0 |   12 |    0 | 92%  |   29 | 0.19.13               |
+| [dev.lemmy.world](https://dev.lemmy.world)                                                     | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    0 | 96%  |   24 | 0.19.12-4-gd8445881a  |
+| [Roanoke Social](https://roanoke.social) (roanoke.social)                                      | Yes  | No   | No    | No      | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.10               |
+| [Mayer Rocks](https://lemmy.mayer.rocks) (lemmy.mayer.rocks)                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    1 | 0.19.11               |
+| [Gonzo.Markets](https://gonzo.markets)                                                         | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 97%  |    3 | 0.19.13               |
+| [Lululemmy](https://lululemmy.com) (lululemmy.com)                                             | Yes  | Yes  | Yes   | Yes     | No   |       0 |    0 |    6 | 98%  |   30 | 0.19.11               |
+| [Dullsters.net](https://dullsters.net)                                                         | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   10 | 0.19.9                |
+| [Martin's lemmy](https://martinlm.mypi.co) (martinlm.mypi.co)                                  | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    9 | 0.19.12-modified      |
 | [NBA](https://nba.space) (nba.space)                                                           | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   26 | 0.19.11               |
+| [Marius’s Lemmy](https://lemmy.mariusdavid.fr) (lemmy.mariusdavid.fr)                          | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   30 | 0.19.13               |
+| [Academy Garden](https://academy.garden) (academy.garden)                                      | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 99%  |   25 | 0.19.11               |
+| [Hawkins Family](https://lemmy.hawkinsfamily.com.au) (lemmy.hawkinsfamily.com.au)              | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |    1 | 0.19.13               |
+| [Matchpoint Zone](https://matchpoint.zone) (matchpoint.zone)                                   | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   26 | 0.19.11               |
+| [sador.me Lemmy](https://lemmy.sador.me) (lemmy.sador.me)                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    2 |    0 | 98%  |    5 | 0.19.14               |
+| [Edikoyo Hub](https://hub.edikoyo.com) (hub.edikoyo.com)                                       | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 97%  |   16 | 0.19.5                |
+| [Viewfinder Pro](https://viewfinder.pro) (viewfinder.pro)                                      | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   26 | 0.19.11               |
+| [LoopBoard](https://lemmy.perfecthluxury.store) (lemmy.perfecthluxury.store)                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    1 | 0.19.13               |
+| [Gearhead Town](https://gearhead.town) (gearhead.town)                                         | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   25 | 0.19.11               |
+| [Minecloud Lemmy](https://lemmy.minecloud.ro) (lemmy.minecloud.ro)                             | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.11               |
 | [The Health Community](https://healthy.community) (healthy.community)                          | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 99%  |   25 | 0.19.11               |
 | [lemmy.umany222.net](https://lemmy.umany222.net)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    6 | 0.19.12               |
-| [rochegmr](https://lemmy.rochegmr.com) (lemmy.rochegmr.com)                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   19 | 0.19.13               |
-| [UKFLI](https://ukfli.uk) (ukfli.uk)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |   64 |    0 | 99%  |   23 | 0.19.13               |
-| [Power User ](https://poweruser.forum) (poweruser.forum)                                       | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   25 | 0.19.11               |
-| [Lemmy](https://lemmy.belegost.net) (lemmy.belegost.net)                                       | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 98%  |    3 | 0.19.13               |
-| [Hardware Watch](https://hardware.watch) (hardware.watch)                                      | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 99%  |   25 | 0.19.11               |
+| [a.s dev](https://making.awful.systems) (making.awful.systems)                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   29 | 0.19.12               |
+| [Level Up!](https://level-up.zone) (level-up.zone)                                             | Yes  | No   | Yes   | No      | No   |       0 |    0 |    0 | 97%  |   21 | 0.19.11               |
 | [Pride Haven](https://pridehaven.social) (pridehaven.social)                                   | Yes  | No   | No    | Yes     | No   |       0 |    0 |    0 | 99%  |   10 | 0.19.13-modified      |
 | [Expats Zone](https://expats.zone) (expats.zone)                                               | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   25 | 0.19.11               |
-| [My Lemny](https://lemmy.zwanenburg.info) (lemmy.zwanenburg.info)                              | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   29 | 0.19.14               |
+| [Power User ](https://poweruser.forum) (poweruser.forum)                                       | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   25 | 0.19.11               |
+| [Aethelgard Community](https://discuss.aethelgard.space) (discuss.aethelgard.space)            | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    1 | 0.19.13               |
 | [KJKalle.net](https://lemmy.kjkalle.net) (lemmy.kjkalle.net)                                   | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   10 | 0.19.9                |
+| [social@p80.se](https://social.p80.se) (social.p80.se)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   15 | 0.19.9                |
+| [enticedwanderer.com](https://lemmy.enticedwanderer.com) (lemmy.enticedwanderer.com)           | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   12 | 0.19.13               |
 | [Time Periods](https://timeperiods.fr) (timeperiods.fr)                                        | Yes  | No   | Yes   | No      | No   |       0 |    0 |    0 | 100% |   13 | 0.19.5                |
-| [Soccer Forum](https://soccer.forum) (soccer.forum)                                            | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   30 | 0.19.11               |
+| [Phusmugugs](https://lemmy.runesmite.com) (lemmy.runesmite.com)                                | Yes  | No   | Yes   | No      | Yes  |       0 |    1 |    0 | 99%  |   16 | 0.19.11               |
 | [Indie Hackers](https://indiehackers.space) (indiehackers.space)                               | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 99%  |   25 | 0.19.11               |
-| [Lemmy](https://discuss.icewind.me) (discuss.icewind.me)                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   30 | 0.19.13               |
+| [Sergey's Lemmy](https://lem.serkozh.me) (lem.serkozh.me)                                      | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   30 | 0.19.14               |
 | [ふぇんもう](https://fenmou.cyou) (fenmou.cyou)                                                     | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   25 | 0.19.12               |
-| [lem.ph3j.com](https://lem.ph3j.com)                                                           | Yes  | Yes  | Yes   | No      | No   |       0 |    0 |    2 | 99%  |   59 | 0.19.14               |
-| [Trash Brain](https://lem.trashbrain.org) (lem.trashbrain.org)                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   29 | 0.19.11               |
-| [垃圾佬论坛](https://lajilao.com) (lajilao.com)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    8 | 0.19.13               |
-| [LemmyChan](https://lemmychan.org) (lemmychan.org)                                             | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    1 | 0.19.13               |
-| [Matchpoint Zone](https://matchpoint.zone) (matchpoint.zone)                                   | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | 100% |   26 | 0.19.11               |
-| [鴉は拠り所について語り合う](https://lm.korako.me) (lm.korako.me)                                           | Yes  | Yes  | Yes   | Yes     | No   |       0 |    1 |    2 | 100% |   58 | 0.19.11               |
-| [Golgafrinchan](https://lemmy.golgafrinchan.org) (lemmy.golgafrinchan.org)                     | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    8 | 0.19.10               |
-| [minigubben's lemmy](https://lemmy.minigubben.se) (lemmy.minigubben.se)                        | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.12               |
 | [Netheads Online](https://netheads.online) (netheads.online)                                   | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | ??   |   25 | 0.19.11               |
-| [hadan.social](https://discuss.hadan.social) (discuss.hadan.social)                            | Yes  | Yes  | Yes   | No      | No   |       0 |    0 |    0 | 100% |    7 | 0.19.13               |
-| [ch3n2k的中文Lemmy站](https://lemmy.ch3n2k.com) (lemmy.ch3n2k.com)                                 | Yes  | No   | No    | No      | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.3                |
-| [DIGITALFALL](https://lemmy.digitalfall.net) (lemmy.digitalfall.net)                           | Yes  | No   | Yes   | Yes     | Yes  |       0 |   12 |    0 | 92%  |   29 | 0.19.13               |
-| [ChillyPenguin Lemmy](https://lemmy.chillypenguin.net) (lemmy.chillypenguin.net)               | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    9 | 0.19.12               |
-| [lemmy.0xloc.org](https://lemmy.0xloc.org)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    3 | 0.19.12               |
-| [Overseer Control](https://overctrl.dbzer0.com) (overctrl.dbzer0.com)                          | Yes  | No   | No    | Yes     | Yes  |       0 |    0 |    0 | 100% |   29 | 0.19.11               |
-| [lemmy.8bitar.io](https://lemmy.8bitar.io)                                                     | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | ??   |   24 | 0.19.9                |
-| [Tabi Lemmy](https://tabi.gay) (tabi.gay)                                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    0 | 0.19.14               |
+| [垃圾佬论坛](https://lajilao.com) (lajilao.com)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    8 | 0.19.13               |
 | [Test2](https://test2.lealternative.net) (test2.lealternative.net)                             | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   26 | 0.19.14               |
-| [w9r.de](https://lemmy.w9r.de) (lemmy.w9r.de)                                                  | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 100% |   30 | 0.19.13               |
+| [lem.ph3j.com](https://lem.ph3j.com)                                                           | Yes  | Yes  | Yes   | No      | No   |       0 |    0 |    2 | 99%  |   59 | 0.19.14               |
+| [hadan.social](https://discuss.hadan.social) (discuss.hadan.social)                            | Yes  | Yes  | Yes   | No      | No   |       0 |    0 |    0 | 100% |    7 | 0.19.13               |
+| [lemmy.sietch.online](https://lemmy.sietch.online)                                             | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | 99%  |   30 | 0.19.13               |
 | [lemmy.thc.sh](https://lemmy.thc.sh)                                                           | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   15 | 0.19.8                |
 | [Lemmy News](https://lemmynews.ru) (lemmynews.ru)                                              | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    0 | ??   |    1 | 0.19.13               |
+| [Golgafrinchan](https://lemmy.golgafrinchan.org) (lemmy.golgafrinchan.org)                     | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    8 | 0.19.10               |
+| [news.sathani.com](https://news.sathani.com)                                                   | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    2 | 0.19.13               |
 | [lemmy.mair.io](https://lemmy.mair.io)                                                         | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    0 | ??   |    9 | 0.19.9                |
+| [鴉は拠り所について語り合う](https://lm.korako.me) (lm.korako.me)                                           | Yes  | Yes  | Yes   | Yes     | No   |       0 |    1 |    2 | 100% |   58 | 0.19.11               |
+| [ch3n2k的中文Lemmy站](https://lemmy.ch3n2k.com) (lemmy.ch3n2k.com)                                 | Yes  | No   | No    | No      | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.3                |
 | [News](https://news.wigger.one) (news.wigger.one)                                              | Yes  | No   | Yes   | Yes     | Yes  |       0 |    1 |    0 | ??   |   20 | 0.19.13               |
-| [lemgoku](https://lemmy.izanami.moe) (lemmy.izanami.moe)                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    5 | 0.19.12               |
-| [Mayer Rocks](https://lemmy.mayer.rocks) (lemmy.mayer.rocks)                                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    1 | 0.19.11               |
-| [taxevasion.info](https://lemmy.taxevasion.info) (lemmy.taxevasion.info)                       | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   11 | 0.19.8                |
-| [CANZUK](https://canzuk.zone) (canzuk.zone)                                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   10 | 0.19.13               |
-| [ThinkTank](https://thinktank.brainstormes.org) (thinktank.brainstormes.org)                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    2 | 0.19.13               |
-| [Lemmy wivodaim .ch](https://lemmy.wivodaim.ch) (lemmy.wivodaim.ch)                            | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    0 | 91%  |    3 | 0.19.11               |
+| [Tabi Lemmy](https://tabi.gay) (tabi.gay)                                                      | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    0 | 0.19.14               |
+| [Overseer Control](https://overctrl.dbzer0.com) (overctrl.dbzer0.com)                          | Yes  | No   | No    | Yes     | Yes  |       0 |    0 |    0 | 100% |   30 | 0.19.11               |
+| [lm.inu.is](https://lm.inu.is)                                                                 | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   30 | 0.19.11               |
+| [Fediverse.jp: Lemmy](https://lemmy.fediverse.jp) (lemmy.fediverse.jp)                         | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    2 | ??   |   44 | 0.19.6-beta.7         |
 | [Blockchain Observer](https://blockchained.world) (blockchained.world)                         | Yes  | No   | Yes   | No      | Yes  |       0 |    0 |    0 | 99%  |   26 | 0.19.11               |
-| [LemmyLink](https://lemmylink.com) (lemmylink.com)                                             | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    1 | 99%  |   10 | 0.19.8                |
-| [Digital Distress](https://distress.digital) (distress.digital)                                | Yes  | Yes  | Yes   | No      | Yes  |       0 |    7 |    0 | ??   |   30 | 0.19.10               |
-| [ProIT](https://proit.org) (proit.org)                                                         | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   30 | 0.19.11               |
 | [危楼・上](https://weilou.top) (weilou.top)                                                        | Yes  | No   | Yes   | No      | No   |       0 |    0 |    0 | ??   |   13 | 0.19.5                |
-| [lemmy.maquis196.io](https://lemmy.maquis196.io)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   10 | 0.19.14               |
+| [lemgoku](https://lemmy.izanami.moe) (lemmy.izanami.moe)                                       | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    5 | 0.19.12               |
+| [taxevasion.info](https://lemmy.taxevasion.info) (lemmy.taxevasion.info)                       | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   11 | 0.19.8                |
+| [Lemmy](https://lemmy.korz.dev) (lemmy.korz.dev)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   27 | 0.19.13               |
+| [LemmyLink](https://lemmylink.com) (lemmylink.com)                                             | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    1 | 99%  |   10 | 0.19.8                |
+| [ChillyPenguin Lemmy](https://lemmy.chillypenguin.net) (lemmy.chillypenguin.net)               | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    9 | 0.19.12               |
+| [lemmy.0xloc.org](https://lemmy.0xloc.org)                                                     | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    3 | 0.19.12               |
+| [ThinkTank](https://thinktank.brainstormes.org) (thinktank.brainstormes.org)                   | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    2 | 0.19.13               |
+| [CANZUK](https://canzuk.zone) (canzuk.zone)                                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   10 | 0.19.13               |
 | [Tacos and Pizza](https://lem.taconuke.club) (lem.taconuke.club)                               | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    0 | ??   |    2 | 0.19.13               |
-| [Corbin.sh](https://lemmy.corbin.sh) (lemmy.corbin.sh)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    6 | 0.19.12               |
-| [The Fergliest Lemmy](https://lemmy.ferg.al) (lemmy.ferg.al)                                   | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   10 | 0.19.9                |
-| [Not Having This](https://lemmy.nothavingthis.co.uk) (lemmy.nothavingthis.co.uk)               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   14 | 0.19.8                |
+| [wolf3d.space](https://wolf3d.space)                                                           | Yes  | No   | Yes   | No      | No   |       0 |    1 |    0 | 100% |    9 | 0.19.9                |
 | [Snoozetown Lemmy](https://lemmy.snoozetown.org) (lemmy.snoozetown.org)                        | Yes  | Yes  | Yes   | No      | Yes  |       0 |    0 |    0 | ??   |   10 | 0.19.11               |
-| [G00N.BBS](https://g00n.cloud) (g00n.cloud)                                                    | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | 98%  |   11 | 0.19.13               |
-| [uSuck.fyi](https://lemmy.usuck.fyi) (lemmy.usuck.fyi)                                         | Yes  | Yes  | No    | Yes     | Yes  |       0 |    0 |    0 | ??   |    2 | 0.19.13               |
+| [The Fergliest Lemmy](https://lemmy.ferg.al) (lemmy.ferg.al)                                   | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   10 | 0.19.9                |
+| [My Lemmy Oracle](https://lemmy.notmy.cloud) (lemmy.notmy.cloud)                               | Yes  | No   | Yes   | Yes     | Yes  |       0 |    1 |    0 | 97%  |   28 | 0.19.5                |
+| [Not Having This](https://lemmy.nothavingthis.co.uk) (lemmy.nothavingthis.co.uk)               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   14 | 0.19.8                |
+| [lemmy.maquis196.io](https://lemmy.maquis196.io)                                               | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   10 | 0.19.14               |
+| [Corbin.sh](https://lemmy.corbin.sh) (lemmy.corbin.sh)                                         | Yes  | Yes  | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |    6 | 0.19.12               |
+| [Lemmy of 7RG1NT](https://l.7rg1nt.moe) (l.7rg1nt.moe)                                         | Yes  | No   | Yes   | Yes     | Yes  |       0 |    0 |    0 | ??   |   29 | 0.19.14               |
+| [Lemmy@Moonling.nl](https://lemmy.moonling.nl) (lemmy.moonling.nl)                             | Yes  | No   | Yes   | Yes     | Yes  |       0 |    4 |    0 | 99%  |   30 | 0.19.3                |
 
-Data generated at 2025-12-21T13:06:39.237847+00:00
+Data generated at 2025-12-21T16:50:13.902458+00:00
